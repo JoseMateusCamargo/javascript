@@ -4,7 +4,7 @@
 
 ## 15 Javascript codes you will always need
 
-[Code](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/15.codes.js)
+[Code](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/15.codes.js#L18)
 
 ---
 

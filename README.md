@@ -33,7 +33,7 @@
 
 ### How to use (manual)
 
-> * [<b>Generators </b> Understanding JS Generators.]()
+> * [<b>Generators </b> Understanding JS Generators.](https://github.com/JoseMateusCamargo/javascript/blob/main/generators/gener.app.js)
 
 * [Format the output of JSON.stringify.](https://github.com/JoseMateusCamargo/javascript/blob/master/how-to-use/json.stringify_format.js)
 * [Beyond the <b>console.log</b> (info - table - assert - time - trace and more...).](https://github.com/JoseMateusCamargo/javascript/blob/master/console_methods.js)

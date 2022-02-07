@@ -9,6 +9,7 @@
 
 ### Tips and tricks
 
+* [15 Javascript codes you will always need. ](https://github.com/JoseMateusCamargo/javascript/blob/master/reverse.string.js)
 * [Simple way to reverse string. ](https://github.com/JoseMateusCamargo/javascript/blob/master/reverse.string.js)
 * [Capitalize (toUpperCase) first letter.](https://github.com/JoseMateusCamargo/javascript/blob/master/capitalize.first.letter.js)
 * [<b>padStar</b> Method pads the current string with another string.](https://github.com/JoseMateusCamargo/javascript/blob/master/padStart.js)
@@ -42,9 +43,6 @@
 ### Interview Question
 
 * [Some interview questions.](https://github.com/JoseMateusCamargo/javascript/blob/master/interview-question/README.md)
-
-### 15 Codes
-[Check if Date is Valid]()
 
 ### Snippets
 

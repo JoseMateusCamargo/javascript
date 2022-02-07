@@ -7,6 +7,8 @@
   Simple material with examples of JavaScript and JQuery.
 </p>
 
+### Tips and tricks
+
 * [Simple way to reverse string. ](https://github.com/JoseMateusCamargo/javascript/blob/master/reverse.string.js)
 * [Capitalize (toUpperCase) first letter.](https://github.com/JoseMateusCamargo/javascript/blob/master/capitalize.first.letter.js)
 * [<b>padStar</b> Method pads the current string with another string.](https://github.com/JoseMateusCamargo/javascript/blob/master/padStart.js)
@@ -29,7 +31,9 @@
 * [Using <b>Object literal</b>, like a boss.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/obj_literal.js)
 * [<b>Object.values</b>, get values of JSON, using <b>forEach</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/obj.values.js)
 
-### How to use
+### How to use (manual)
+
+> * [<b>Generators </b> Understanding JS Generators.]()
 
 * [Format the output of JSON.stringify.](https://github.com/JoseMateusCamargo/javascript/blob/master/how-to-use/json.stringify_format.js)
 * [Beyond the <b>console.log</b> (info - table - assert - time - trace and more...).](https://github.com/JoseMateusCamargo/javascript/blob/master/console_methods.js)

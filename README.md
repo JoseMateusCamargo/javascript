@@ -9,6 +9,7 @@
 
 ### Tips and tricks
 
+* [Use <b>performance.now</b> to measure executation speed]()
 * [15 Javascript codes you will always need. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/README.md)
 * [Simple way to reverse string. ](https://github.com/JoseMateusCamargo/javascript/blob/master/reverse.string.js)
 * [Capitalize (toUpperCase) first letter.](https://github.com/JoseMateusCamargo/javascript/blob/master/capitalize.first.letter.js)

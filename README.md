@@ -16,12 +16,12 @@
 
 ### Stack Overflow
 
-* [Get substring after or before string.]()
-* [Get element by XPATH.]()
-* [<b>ClearInterval</b>, clearing <b>SetInterval</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/clear_setInterval.js)
-* [Convert value to local currency.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/currency_converter.js)
-* [Convert second to hour.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/second_to_hour.js)
-* [Using <b>localStorage</b> to define a variable.](https://github.com/JoseMateusCamargo/javascript/blob/master/set_get_localStorage.js)
+* [Get substring after or before string.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/get.string.at.substring.js)
+* [Get element by XPATH.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/get.element.by.xpath.js)
+* [<b>ClearInterval</b>, clearing <b>SetInterval</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/clear.setInterval.js)
+* [Convert value to local currency.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/convert.value.to.local.currency.js)
+* [Convert second to hour.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/second.to.hour.js)
+* [Using <b>localStorage</b> to define a variable.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/set.and.get.localStorage.js)
 
 ### Connection
 

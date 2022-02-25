@@ -24,11 +24,11 @@
 * [Convert second to hour.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/second.to.hour.js)
 * [Using <b>localStorage</b> to define a variable.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/set.and.get.localStorage.js)
 
-### Connection
+### Request Method
 
-* [Send the authorization header using <b>Axios</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/request-method/header_using_axios.js)
-* [XMLHttp Request - pure Javascript.](https://github.com/JoseMateusCamargo/javascript/blob/master/request-method/XMLHttp_Request.js)
-* [Send a token (headers) with an <b>AJAX</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/request-method/send_token_ajax.js)
+* [Send the authorization header using <b>Axios</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/header_using_axios.js)
+* [XMLHttp Request - pure Javascript.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/XMLHttp_Request.js)
+* [Send a token (headers) with an <b>AJAX</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/send_token_ajax.js)
 
 ### Object
 
@@ -43,7 +43,6 @@
 
 * [Format the output of JSON.stringify.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/json.stringify_format.js)
 * [Beyond the <b>console.log</b> (info - table - assert - time - trace and more...).](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/console.methods.js)
-* [Using the <b>Reviver Function</b> in <b>JSON.parse</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/json.parse_reviver.js)
 * [<b>padStar</b> Method pads the current string with another string.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/padStart.js)
 
 ### Interview Question
@@ -52,14 +51,14 @@
 
 ### Snippets
 
-* [Carousel Logic.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/carousel_logic.js)
-* [Capture Barcode-Qrcode reader (keyboard-wedge) events.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/wedge_barcode_capture_event.js)
-* [Counting occurrences in a string.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/count_occurrences.js)
-* [Recursive Function in ATM machine example.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/recursive_ATM_machine.js)
-* [Methods to parse <b>table to JSON</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/table_to_JSON.js)
-* [Change class CSS using JQuery.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/change_class_css.js)
-* [<b>onKeyPressed</b> Execute a JavaScript when a user presses a key.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/onkeypress_event.js)
-* [Creating a simple clock.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/simple_javascript_clock.js)
+* [Carousel Logic.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/carousel_logic.js)
+* [Capture Barcode-Qrcode reader (keyboard-wedge) events.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/wedge_barcode_capture_event.js)
+* [Counting occurrences in a string.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/count_occurrences.js)
+* [Recursive Function in ATM machine example.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/recursive_ATM_machine.js)
+* [Methods to parse <b>table to JSON</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/table_to_JSON.js)
+* [Change class CSS using JQuery.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/change_class_css.js)
+* [<b>onKeyPressed</b> Execute a JavaScript when a user presses a key.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/onkeypress_event.js)
+* [Creating a simple clock.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/simple_javascript_clock.js)
 
 ### Array Cheatsheet 🚀
 

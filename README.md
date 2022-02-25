@@ -13,7 +13,6 @@
 * [15 Javascript codes you will always need. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/15.code.md)
 * [Simple way to reverse string. ](https://github.com/JoseMateusCamargo/javascript/blob/master/reverse.string.js)
 * [Capitalize (toUpperCase) first letter.](https://github.com/JoseMateusCamargo/javascript/blob/master/capitalize.first.letter.js)
-* [<b>padStar</b> Method pads the current string with another string.](https://github.com/JoseMateusCamargo/javascript/blob/master/padStart.js)
 * [Using <b>Spread Operator (...) </b> with array - object](https://github.com/JoseMateusCamargo/javascript/blob/master/spread_operator.js)
 * [Working with dates.](https://github.com/JoseMateusCamargo/javascript/blob/master/date.js)
 * [Loops: <b>for in</b> and <b>for of</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/loops_for-in_and_for-of.js)
@@ -37,9 +36,10 @@
 
 > * [<b>Generators </b> Understanding JS Generators.](https://github.com/JoseMateusCamargo/javascript/blob/main/generators/gener.app.js)
 
-* [Format the output of JSON.stringify.](https://github.com/JoseMateusCamargo/javascript/blob/master/how-to-use/json.stringify_format.js)
-* [Beyond the <b>console.log</b> (info - table - assert - time - trace and more...).](https://github.com/JoseMateusCamargo/javascript/blob/master/console_methods.js)
+* [Format the output of JSON.stringify.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/json.stringify_format.js)
+* [Beyond the <b>console.log</b> (info - table - assert - time - trace and more...).](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/console.methods.js)
 * [Using the <b>Reviver Function</b> in <b>JSON.parse</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/json.parse_reviver.js)
+* [<b>padStar</b> Method pads the current string with another string.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/padStart.js)
 
 ### Interview Question
 

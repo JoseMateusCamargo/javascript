@@ -14,11 +14,11 @@
 * [Working with search parameters.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/working.with.search.params.js)
 * [Capitalize (toUpperCase) first letter.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/capitalize.first.letter.js)
 * [Simple way to reverse string. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/reverse.string.js)
-* [Using the Reviver Function in JSON.parse]()
-* [Expressões regulares.]()
-* [Trabalhando com datas.]()
-* [Difference between using <i>for in</i> and <i>for of</i>.]()
-* [How to Use the Spread Operator (…)]()
+* [Using the Reviver Function in JSON.parse](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/json.parse_reviver.js)
+* [Expressões regulares.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/regex_tips.js)
+* [Trabalhando com datas.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/date.js)
+* [Difference between using <i>for in</i> and <i>for of</i>.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/loops_for-in_and_for-of.js)
+* [How to Use the Spread Operator (…)](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/spread_operator.js)
 
 ### Stack Overflow
 

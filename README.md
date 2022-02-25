@@ -9,8 +9,8 @@
 
 ### Tips and tricks
 
-* [Use <b>performance.now</b> to measure executation speed]()
-* [15 Javascript codes you will always need. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/README.md)
+* [Use <b>performance.now</b> to measure executation speed.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/performance.now.js)
+* [15 Javascript codes you will always need. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/15.code.md)
 * [Simple way to reverse string. ](https://github.com/JoseMateusCamargo/javascript/blob/master/reverse.string.js)
 * [Capitalize (toUpperCase) first letter.](https://github.com/JoseMateusCamargo/javascript/blob/master/capitalize.first.letter.js)
 * [<b>padStar</b> Method pads the current string with another string.](https://github.com/JoseMateusCamargo/javascript/blob/master/padStart.js)

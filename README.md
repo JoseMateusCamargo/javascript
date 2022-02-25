@@ -11,12 +11,16 @@
 
 * [Use <b>performance.now</b> to measure executation speed.](https://github.com/JoseMateusCamargo/javascript/blob/master/tips-and-tricks/performance.now.js)
 * [15 Javascript codes you will always need. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/15.code.md)
-* [Simple way to reverse string. ](https://github.com/JoseMateusCamargo/javascript/blob/master/reverse.string.js)
 * [Capitalize (toUpperCase) first letter.](https://github.com/JoseMateusCamargo/javascript/blob/master/capitalize.first.letter.js)
-* [Using <b>Spread Operator (...) </b> with array - object](https://github.com/JoseMateusCamargo/javascript/blob/master/spread_operator.js)
-* [Working with dates.](https://github.com/JoseMateusCamargo/javascript/blob/master/date.js)
-* [Loops: <b>for in</b> and <b>for of</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/loops_for-in_and_for-of.js)
-* [Regular expressions <b>RegExp</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/regex_tips.js)
+* [Simple way to reverse string. ](https://github.com/JoseMateusCamargo/javascript/blob/master/reverse.string.js)
+
+### Stack Overflow
+
+* [Get substring after or before string.]()
+* [Get element by XPATH.]()
+* [<b>ClearInterval</b>, clearing <b>SetInterval</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/clear_setInterval.js)
+* [Convert value to local currency.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/currency_converter.js)
+* [Convert second to hour.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/second_to_hour.js)
 * [Using <b>localStorage</b> to define a variable.](https://github.com/JoseMateusCamargo/javascript/blob/master/set_get_localStorage.js)
 
 ### Connection
@@ -52,12 +56,9 @@
 * [Counting occurrences in a string.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/count_occurrences.js)
 * [Recursive Function in ATM machine example.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/recursive_ATM_machine.js)
 * [Methods to parse <b>table to JSON</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/table_to_JSON.js)
-* [<b>ClearInterval</b>, clearing <b>SetInterval</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/clear_setInterval.js)
-* [Convert value to local currency.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/currency_converter.js)
 * [Change class CSS using JQuery.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/change_class_css.js)
 * [<b>onKeyPressed</b> Execute a JavaScript when a user presses a key.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/onkeypress_event.js)
 * [Creating a simple clock.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/simple_javascript_clock.js)
-* [Convert second to hour.](https://github.com/JoseMateusCamargo/javascript/blob/master/snippets/second_to_hour.js)
 
 ### Array Cheatsheet 🚀
 

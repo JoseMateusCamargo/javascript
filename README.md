@@ -9,10 +9,10 @@
 
 ### Tips and tricks
 
-* [Use <b>performance.now</b> to measure executation speed.](https://github.com/JoseMateusCamargo/javascript/blob/master/tips-and-tricks/performance.now.js)
+* [Use <b>performance.now</b> to measure executation speed.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/performance.now.js)
 * [15 Javascript codes you will always need. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/15.code.md)
 * [Working with search parameters.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/working.with.search.params.js)
-* [Capitalize (toUpperCase) first letter.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/capitalize.first.letter.js)
+* [Capitalize (toUpperCase) first letter.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/capitalize.first.letter.js)
 * [Simple way to reverse string. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/reverse.string.js)
 * [Using the Reviver Function in JSON.parse](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/json.parse_reviver.js)
 * [Expressões regulares.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/regex_tips.js)
@@ -46,8 +46,8 @@
 
 > * [<b>Generators </b> Understanding JS Generators.](https://github.com/JoseMateusCamargo/javascript/blob/main/generators/gener.app.js)
 
-* [Entendendo <b>clousures</b>.]()
-* [Destaque de sintaxe HTML <b>String.raw()</b>.]()
+* [Entendendo <b>clousures</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/clousures.js)
+* [Destaque de sintaxe HTML <b>String.raw()</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/html.syntax.highlighting.js)
 * [Format the output of JSON.stringify.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/json.stringify_format.js)
 * [Beyond the <b>console.log</b> (info - table - assert - time - trace and more...).](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/console.methods.js)
 * [<b>padStar</b> Method pads the current string with another string.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/padStart.js)

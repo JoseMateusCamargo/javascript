@@ -46,6 +46,8 @@
 
 > * [<b>Generators </b> Understanding JS Generators.](https://github.com/JoseMateusCamargo/javascript/blob/main/generators/gener.app.js)
 
+* [Entendendo <b>clousures</b>.]()
+* [Destaque de sintaxe HTML <b>String.raw()</b>.]()
 * [Format the output of JSON.stringify.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/json.stringify_format.js)
 * [Beyond the <b>console.log</b> (info - table - assert - time - trace and more...).](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/console.methods.js)
 * [<b>padStar</b> Method pads the current string with another string.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/padStart.js)

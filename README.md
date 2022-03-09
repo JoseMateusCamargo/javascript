@@ -9,7 +9,7 @@
 
 ### Tips and tricks
 
-* [Função <b>Stop word</b> em Javascript.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/performance.now.js)
+* [<b>Stop word</b>, pequena função / grande trabalho.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/stopword.js)
 * [Use <b>performance.now</b> to measure executation speed.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/performance.now.js)
 * [15 Javascript codes you will always need. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/15.code.md)
 * [Working with search parameters.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/working.with.search.params.js)
@@ -23,7 +23,7 @@
 
 ### Stack Overflow
 
-* [Como detectar <b>URL</b> in texto e retornar como <b>link</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/get.string.at.substring.js)
+* [Como detectar <b>URL</b> in texto e retornar como <b>link</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/detect.urls.in.text.js)
 * [Get substring after or before string.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/get.string.at.substring.js)
 * [Get element by XPATH.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/get.element.by.xpath.js)
 * [<b>ClearInterval</b>, clearing <b>SetInterval</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/clear.setInterval.js)

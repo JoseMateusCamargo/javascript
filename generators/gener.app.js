@@ -1,4 +1,4 @@
-//-------------------- [Normal function]
+//--------------------[Normal function]
 const my_base = _ => Promise.resolve([
     {name: 'user 1'}, {name: 'user 2'}
 ])
@@ -14,7 +14,7 @@ const data = await process()
 data.forEach(item => console.log(item))
 
 
-//-------------------- [Generators function]
+//--------------------[Generators function]
 // my_base poderia ser um generator que entrega dados do banco paginados
 async function* processGenerators() {
     for (const item of await my_base()) {

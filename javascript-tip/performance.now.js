@@ -1,7 +1,7 @@
 // Use performance.now to measure executation speed
 // The performance API will deliver a much more accurate measurement.
 
-//-------------------- [Do this]
+//--------------------[Do this]
 const start = performance.now();
 
 for (let i = 0; i < 1e4; i++) {
@@ -12,7 +12,7 @@ const end = performance.now();
 const time = start - end
 console.log(time)
 
-//-------------------- [Don't do this]
+//--------------------[Don't do this]
 const start_ = new Date();
 
 for (let i = 0; i < 1e4; i++) {

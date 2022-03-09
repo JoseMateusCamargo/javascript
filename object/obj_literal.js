@@ -18,9 +18,7 @@ function userPolicyObjectLiteral(type) {
 console.log(userPolicyObjectLiteral('sales'))
 console.log(userPolicyObjectLiteral())
 
-//--------------------------------------------------//
-
-// if-else
+//--------------------[Usando IF-ELSE]
 function userPolicyIfElse(type) {
     if (type === 'admin') {
         return "This user is Admin!"
@@ -35,9 +33,7 @@ function userPolicyIfElse(type) {
 
 console.log(userPolicyIfElse('client'))
 
-//--------------------------------------------------//
-
-// switch-case
+//--------------------[Usando SWITCH-CASE]
 function userPolicySwitchCase(type) {
     switch (type) {
         case 'admin':

@@ -1,4 +1,4 @@
-//-------------------- [Set the headers in a $.ajax request]
+//--------------------[Set the headers in a $.ajax request]
 $.ajax({
     url: "http://localhost:8080/login",
     type: 'GET',
@@ -6,7 +6,7 @@ $.ajax({
     headers: {"Authorization": localStorage.getItem('token')}
 });
 
-//-------------------- [Using JWT authentication]
+//--------------------[Using JWT authentication]
 $.ajax({
     url: "http://localhost:8080/login",
     type: "POST",

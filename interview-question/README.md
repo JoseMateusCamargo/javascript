@@ -19,7 +19,7 @@
 > célula adjacente, então suponha que o espaço desocupado no lado oposto seja uma célula inativa, mesmo depois de atualizar
 > o estado da célula, considere seu estado anterior ao atualizar o estado das outras células. As informações de estado das
 > células devem ser atualizadas simultaneamente.
-> [Solution](https://github.com/JoseMateusCamargo/python/blob/master/interview-question/microsoft-question/findmatch2Din8D.py)
+> [Solution](https://github.com/JoseMateusCamargo/javascript/blob/main/interview-question/amazon.cell.compete.js)
 
 ### Direitos de uso (Use rights)
 

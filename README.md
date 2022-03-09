@@ -73,11 +73,15 @@
 * [<b>onKeyPressed</b> Execute a JavaScript when a user presses a key.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/onkeypress_event.js)
 * [Creating a simple clock.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/simple_javascript_clock.js)
 
+---
+
 ### Array Cheatsheet 🚀
 
 * [Manipulating Arrays in JavaScript](https://github.com/JoseMateusCamargo/javascript/tree/master/arrays-manipulating#readme)
 
 ![alt text](assets/img/array_cheatsheet.png)
+
+![alt text](assets/img/EwRkAk6XEAIs5Xu.jfif)
 
 ### Direitos de uso (Use rights)
 

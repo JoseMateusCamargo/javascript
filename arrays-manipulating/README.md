@@ -37,9 +37,7 @@
 
 ---
 
-#### Array methods Cheat Sheet 🚀
-
-![alt text](../assets/img/EwRkAk6XEAIs5Xu.jfif)
+#### Array methods 🚀
 
 ![alt text](../assets/img/array_methods_in_js.jpeg)
 

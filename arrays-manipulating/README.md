@@ -35,7 +35,11 @@
 
 [Using ES6 features.](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/ES6.features.js)
 
-#### Array methods 🚀
+---
+
+#### Array methods Cheat Sheet 🚀
+
+![alt text](../assets/img/EwRkAk6XEAIs5Xu.jfif)
 
 ![alt text](../assets/img/array_methods_in_js.jpeg)
 

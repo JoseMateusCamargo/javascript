@@ -33,14 +33,7 @@
 
 * [Send the authorization header using <b>Axios</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/send.header.using.axios.js)
 * [XMLHttp Request - pure Javascript.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/XMLHttp.request.js)
-* [Send a token (headers) with an <b>AJAX</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/send.token.using.ajax.js)
-
-### Object
-
-* [<b>Object.freeze</b>, let's go freezing an object.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/obj.freeze.js)
-* [Sealing an object with <b>Object.seal</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/obj.seal.js)
-* [Using <b>Object literal</b>, like a boss.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/obj_literal.js)
-* [<b>Object.values</b>, get values of JSON, using <b>forEach</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/obj.values.js)
+* [Send a token (headers) using <b>AJAX</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/send.token.using.ajax.js)
 
 ### How to use (manual)
 
@@ -51,6 +44,17 @@
 * [Format the output of JSON.stringify.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/json.stringify_format.js)
 * [Beyond the <b>console.log</b> (info - table - assert - time - trace and more...).](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/console.methods.js)
 * [<b>padStar</b> Method pads the current string with another string.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/padStart.js)
+
+---
+
+#### Entendo 'Object'
+
+> Um objeto é uma coleção de propriedades, e uma propriedade é uma associação entre um nome (ou chave) e um valor.
+
+* [<b>Object.freeze</b>, let's go freezing an object.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/Object.freeze.js)
+* [Sealing an object with <b>Object.seal</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/Object.seal.js)
+* [Using <b>Object literal</b>, like a boss.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/obj.literal.js)
+* [<b>Object.values</b>, get values of JSON, using <b>forEach</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/Object.values.js)
 
 ### Interview Question
 

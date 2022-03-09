@@ -31,9 +31,9 @@
 
 ### Request Method
 
-* [Send the authorization header using <b>Axios</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/header_using_axios.js)
-* [XMLHttp Request - pure Javascript.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/XMLHttp_Request.js)
-* [Send a token (headers) with an <b>AJAX</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/send_token_ajax.js)
+* [Send the authorization header using <b>Axios</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/send.header.using.axios.js)
+* [XMLHttp Request - pure Javascript.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/XMLHttp.request.js)
+* [Send a token (headers) with an <b>AJAX</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/send.token.using.ajax.js)
 
 ### Object
 

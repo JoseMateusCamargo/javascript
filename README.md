@@ -42,7 +42,7 @@
 * [Entendendo <b>clousures</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/clousures.js)
 * [Destaque de sintaxe HTML <b>String.raw()</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/html.syntax.highlighting.js)
 * [Format the output of JSON.stringify.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/json.stringify_format.js)
-* [Beyond the <b>console.log</b> (info - table - assert - time - trace and more...).](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/console.methods.js)
+* [Diferentes tipos de <b>console.log</b> (info - table - assert - time - trace and more...).](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/console.methods.js)
 * [<b>padStar</b> Method pads the current string with another string.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/padStart.js)
 
 ---
@@ -53,7 +53,7 @@
 
 * [<b>Object.freeze</b>, let's go freezing an object.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/Object.freeze.js)
 * [Sealing an object with <b>Object.seal</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/Object.seal.js)
-* [Using <b>Object literal</b>, like a boss.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/obj.literal.js)
+* [Using <b>Object literal</b> like a boss.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/obj.literal.js)
 * [<b>Object.values</b>, get values of JSON, using <b>forEach</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/Object.values.js)
 
 ### Interview Question

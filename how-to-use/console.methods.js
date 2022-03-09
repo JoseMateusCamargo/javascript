@@ -1,3 +1,9 @@
+/*
+O objeto console fornece acesso ao console de debug do navegador (por exemplo, o Web Console do Firefox).
+O seu funcionamento específico varia de navegador para navegador, mas existe um conjunto de ferramentas que na prática
+são fornecidas normalmente.
+ */
+
 //--------------------[console.info()]
 console.info('Information message')
 

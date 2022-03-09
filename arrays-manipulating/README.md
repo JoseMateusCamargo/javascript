@@ -9,7 +9,7 @@
 
 ### Manipulating Arrays in JavaScript
 
-* [Usando <b>array.at</b> para retornar o item referente a sua index.](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/max.id.js)
+* [Usando <b>array.at</b> para retornar o item referente a sua index.](https://github.com/JoseMateusCamargo/javascript/blob/main/arrays-manipulating/array.at.js)
 * [Find max id in array using <b>(array.forEach, map, reduce & Math.max)</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/max.id.js)
 * [Use <b>array.every</b> to check if all elements pass the test.](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/array.every.js)
 * [Remove <b>False</b> value in <b>array</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/remove.false.value.js)

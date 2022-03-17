@@ -14,6 +14,7 @@
 * [Use <b>performance.now</b> to measure executation speed.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/performance.now.js)
 * [Capitalize (toUpperCase) first letter.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/capitalize.first.letter.js)
 
+---
 
 * [15 Javascript codes you will always need. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/15.code.md)
 * [Working with search parameters.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/working.with.search.params.js)

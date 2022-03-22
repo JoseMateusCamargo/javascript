@@ -9,6 +9,7 @@
 
 ### Tips and tricks
 
+* [Repetir um determinado valor concatenada na string original.]()
 * [Estilizando o <b>console.log</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/estilo.in.console.js)
 * [<b>Stop word</b>, pequena função / grande trabalho.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/stopword.js)
 * [Use <b>performance.now</b> to measure executation speed.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/performance.now.js)

@@ -9,6 +9,7 @@
 
 ### Manipulating Arrays in JavaScript
 
+* [Remover dublicados de qualquer tipo in array usando <b>objeto Set</b>.]()
 * [Usando <b>array.at</b> para retornar o item referente a sua index.](https://github.com/JoseMateusCamargo/javascript/blob/main/arrays-manipulating/array.at.js)
 * [Find max id in array using <b>(array.forEach, map, reduce & Math.max)</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/max.id.js)
 * [Use <b>array.every</b> to check if all elements pass the test.](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/array.every.js)

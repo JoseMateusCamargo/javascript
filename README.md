@@ -9,7 +9,7 @@
 
 ### Tips and tricks
 
-* [Usando o operador <b>nullish coalescing</b> para validação de variaveis.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/nullish.coalescing.js)
+* [Usando o operador <b>nullish coalescing</b> em validação de variáveis.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/nullish.coalescing.js)
 * [Repetir uma determinada <i>string</i> concatenada na string original.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/using.string.repeat.js)
 * [Estilizando o <b>console.log</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/estilo.in.console.js)
 * [<b>Stop word</b>, pequena função / grande trabalho.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/stopword.js)

@@ -1,6 +1,14 @@
 /*
-O operador coalescing nulo devolverá o seu operador à direita quando o lado esquerdo estiver nulo ou indefinido,
-não apenas falso. Util quando se trabalho com números.
+Documentation: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator
+
+O operador de coalescência nula (??) é um operador lógico que retorna o seu operando do lado direito quando o seu
+operador do lado esquerdo é null ou undefined. Caso contrário, ele retorna o seu operando do lado esquerdo.
+Util quando se trabalho com números.
+
+Ao contrário do operador lógico OR (||), o operando esquerdo é retornado se houver um valor falsy (falso) que não
+seja null ou undefined. Em outras palavras, se você usar || para obter algum valor padrão para outra variável foo,
+você pode enfrentar comportamentos inesperados se você considerar algum valor falseável como utilizável (eg. '' ou 0).
+Veja abaixo alguns exemplos:
  */
 
 let price_1 = 0

@@ -13,7 +13,6 @@
 * [Usando o operador <b>nullish coalescing</b> em validação de variáveis.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/nullish.coalescing.js)
 * [Repetir uma determinada <i>string</i> concatenada na string original.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/using.string.repeat.js)
 * [Estilizando o <b>console.log</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/estilo.in.console.js)
-* [<b>Stop word</b>, pequena função / grande trabalho.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/stopword.js)
 * [Use <b>performance.now</b> to measure executation speed.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/performance.now.js)
 * [Capitalize (toUpperCase) first letter.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/capitalize.first.letter.js)
 
@@ -24,10 +23,15 @@
 * [Working with search parameters.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/working.with.search.params.js)
 * [Simple way to reverse string. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/reverse.string.js)
 * [Using the Reviver Function in JSON.parse](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/json.parse_reviver.js)
-* [Expressões regulares.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/regex_tips.js)
 * [Trabalhando com datas.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/date.js)
 * [Difference between using <i>for in</i> and <i>for of</i>.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/loops_for-in_and_for-of.js)
 * [How to Use the Spread Operator (…)](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/spread_operator.js)
+
+### Text Preprocessing
+
+* [Substituir/ remover caracteres especiais com <b>normalize</b> e <b>replace</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/text-preprocessing/removendo.caracteres.especiais.js)
+* [Selecionar combinações de caracteres em uma string com <i>Expressões Regulares</i>.](https://github.com/JoseMateusCamargo/javascript/blob/main/text-preprocessing/regex.js)
+* [<b>Stop word</b>, pequena função/ grande trabalho.](https://github.com/JoseMateusCamargo/javascript/blob/main/text-preprocessing/stopword.js)
 
 ### Stack Overflow
 

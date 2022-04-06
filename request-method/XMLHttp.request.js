@@ -25,3 +25,23 @@ async.onreadystatechange = function () { // Função chamada quando a requisiç�
 }
 
 async.send();
+
+//--------------------[AJAX - Server Response (W3Schools)]
+// Source: https://www.w3schools.com/js/js_ajax_http_response.asp
+
+function loadDoc() {
+    const xhttp = new XMLHttpRequest();
+    xhttp.onload = function () {
+        // The responseText Property
+        console.log(this.responseText)
+
+        // The getAllResponseHeaders() Method
+        console.log(this.getAllResponseHeaders());
+        console.log(this.getResponseHeader("Last-Modified"));
+
+    }
+    xhttp.open("GET", "https://www.w3schools.com/js/ajax_info.txt");
+    xhttp.send();
+}
+
+loadDoc()

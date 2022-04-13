@@ -18,6 +18,7 @@
 
 ---
 
+* [Convertendo postagem de formulário em <b>Query String</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/formdata.object.to.querystring.js)
 * [Como detectar se o usuário está <b>Online</b> / <b>Offline</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/navigator.online.offine.js)
 * [15 Javascript codes you will always need. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/15.code.md)
 * [Working with search parameters.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/working.with.search.params.js)

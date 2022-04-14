@@ -1,5 +1,5 @@
 /*
-O URL()construtor retorna um URLobjeto recém-criado representando a URL definida pelos parâmetros.
+O URL()construtor retorna um URL objeto recém-criado representando a URL definida pelos parâmetros.
 Documentation: https://developer.mozilla.org/en-US/docs/Web/API/URL/URL
  */
 

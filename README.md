@@ -9,7 +9,7 @@
 
 ### Tips and tricks
 
-* [Retorne os paramentros de uma URL usando <b>new URL()</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/url.instead.string.js)
+* [Retorne os parametros de uma URL usando <b>new URL()</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/url.instead.string.js)
 * [Converta um objeto em <b>Query string</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/convert.obj.query.string.js)
 * [Usando o operador <b>nullish coalescing</b> em validação de variáveis.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/nullish.coalescing.js)
 * [Repetir uma determinada <i>string</i> concatenada na string original.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/using.string.repeat.js)

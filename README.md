@@ -79,7 +79,7 @@
 ### Snippets
 
 * [Carousel Logic.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/carousel_logic.js)
-* [Capture Barcode-Qrcode reader (keyboard-wedge) events.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/wedge_barcode_capture_event.js)
+* [Capture Barcode-Qrcode reader (keyboard-wedge) events.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/capture.barcode.reader.keyborad.wedge.js)
 * [Counting occurrences in a string.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/count_occurrences.js)
 * [Recursive Function in ATM machine example.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/recursive_ATM_machine.js)
 * [Methods to parse <b>table to JSON</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/table_to_JSON.js)

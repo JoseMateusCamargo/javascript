@@ -27,7 +27,9 @@ const characters = [
     {id: 33, first: "John", last: "Howard"}
 ]
 
-// Array.forEach
+//--------------------[forEach]
+// Documentation: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+
 let max = 0
 characters.forEach(character => {
     if (character.id > max) {
@@ -36,7 +38,9 @@ characters.forEach(character => {
 })
 console.log('forEach: ', max)
 
-// Array.map
+//--------------------[map]
+// Documentation: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+
 const ids = characters.map(user => user.id)
 const sorted = ids.sort((a, b) => a - b)
 let max_map = (sorted[sorted.length - 1])
@@ -45,12 +49,16 @@ console.log('map: ', max_map)
 let max_map_smart = characters.map(user => user.id).sort((a, b) => a - b)[characters.length - 1]
 console.log('map_smart: ', max_map_smart)
 
-// Array.Reduce
+//--------------------[reduce]
+// Documentation: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+
 const max_reduce = characters.reduce(
     (max, character) => (character.id > max ? character.id : max), characters[0].id
 )
 console.log('reduce: ', max_reduce)
 
-// Math.max
+//--------------------[Spread operator Math.max]
+// Documentation: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/max
+
 let max_math = Math.max(...characters.map(user => user.id))
 console.log('math: ', max_math)

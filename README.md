@@ -27,7 +27,7 @@
 * [Using the Reviver Function in JSON.parse](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/json.parse_reviver.js)
 * [Trabalhando com datas.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/date.js)
 * [Difference between using <i>for in</i> and <i>for of</i>.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/loops_for-in_and_for-of.js)
-* [How to Use the Spread Operator (…)](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/spread_operator.js)
+* [Como usar o operador Spread `(…)`.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/spread.operator.js)
 
 ### Text Preprocessing
 

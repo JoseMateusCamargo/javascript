@@ -28,7 +28,7 @@
 * [Trabalhando com datas.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/date.js)
 * [Difference between using <i>for in</i> and <i>for of</i>.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/loops_for-in_and_for-of.js)
 * [Como usar o operador Spread `(…)`.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/spread.operator.js)
-
+ 
 ### Text Preprocessing
 
 * [Substituir/ remover caracteres especiais com <b>normalize</b> e <b>replace</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/text-preprocessing/removendo.caracteres.especiais.js)

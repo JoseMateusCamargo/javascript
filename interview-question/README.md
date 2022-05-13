@@ -11,7 +11,7 @@
 
 #### Outras
 
-* [Contador de ocorrencia.]()
+* [Contador de ocorrencia.](https://github.com/JoseMateusCamargo/javascript/blob/main/interview-question/contador.ocorrencia.js)
 
 --- 
 

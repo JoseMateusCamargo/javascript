@@ -13,7 +13,7 @@
 
 * [Contador de ocorrencia.]()
 
----
+--- 
 
 ### Amazon Interview Question.
 

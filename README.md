@@ -10,7 +10,7 @@
 ### Tips and tricks
 
 * [Retorne os parametros de uma URL usando `new URL()`.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/url.instead.string.js)
-* [Trabalhando com **Query String** (converta formulário - objeto - adicione elemento)]()
+* [Trabalhando com <b>Query String</b> (converta formulário - objeto - adicione elemento).](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/working.query.parameters.js)
 * [Usando o operador nullish coalescing `??` em validação de variáveis.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/nullish.coalescing.js)
 * [Repetir uma determinada <b>string</b> concatenada na string original.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/using.string.repeat.js)
 * [Estilizando o `console.log`.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/estilo.in.console.js)
@@ -81,7 +81,7 @@
 * [Counting occurrences in a string.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/count_occurrences.js)
 * [Recursive Function in ATM machine example.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/recursive_ATM_machine.js)
 * [Methods to parse <b>table to JSON</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/table_to_JSON.js)
-* [Como converter tabela em arquivo <b>csv</b> e realizar download.]()
+* [Como converter tabela em arquivo <b>csv</b> e realizar download.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/table.to.csv.download.js)
 * [Change class CSS using JQuery.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/change_class_css.js)
 * [<b>onKeyPressed</b> Execute a JavaScript when a user presses a key.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/onkeypress_event.js)
 * [Creating a simple clock.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/simple_javascript_clock.js)

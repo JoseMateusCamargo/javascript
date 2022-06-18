@@ -1,7 +1,7 @@
 // Return part of string before a certain character.
 
-const text = 'abcxyz123uvw';
-let substring = '123'
+const text = 'Q1.0';
+let substring = '.'
 
 //-------------------- [Using substring() method]
 console.log(text.substring(0, text.indexOf(substring)))

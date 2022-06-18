@@ -9,20 +9,18 @@
 
 ### Tips and tricks
 
-* [Retorne os parametros de uma URL usando <b>new URL()</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/url.instead.string.js)
-* [Converta um objeto em <b>Query string</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/convert.obj.query.string.js)
-* [Usando o operador <b>nullish coalescing</b> em validação de variáveis.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/nullish.coalescing.js)
-* [Repetir uma determinada <i>string</i> concatenada na string original.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/using.string.repeat.js)
-* [Estilizando o <b>console.log</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/estilo.in.console.js)
-* [Use <b>performance.now</b> to measure executation speed.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/performance.now.js)
+* [Retorne os parametros de uma URL usando `new URL()`.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/url.instead.string.js)
+* [Trabalhando com **Query String** (converta formulário - objeto - adicione elemento)]()
+* [Usando o operador nullish coalescing `??` em validação de variáveis.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/nullish.coalescing.js)
+* [Repetir uma determinada <b>string</b> concatenada na string original.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/using.string.repeat.js)
+* [Estilizando o `console.log`.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/estilo.in.console.js)
+* [Use `performance.now` to measure executation speed.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/performance.now.js)
 * [Capitalize (toUpperCase) first letter.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/capitalize.first.letter.js)
 
 ---
 
-* [Convertendo postagem de formulário em <b>Query String</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/formdata.object.to.querystring.js)
 * [Como detectar se o usuário está <b>Online</b> / <b>Offline</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/navigator.online.offine.js)
 * [15 Javascript codes you will always need. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/15.code.md)
-* [Working with search parameters.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/working.with.search.params.js)
 * [Simple way to reverse string. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/reverse.string.js)
 * [Using the Reviver Function in JSON.parse](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/json.parse_reviver.js)
 * [Trabalhando com datas.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/date.js)
@@ -83,6 +81,7 @@
 * [Counting occurrences in a string.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/count_occurrences.js)
 * [Recursive Function in ATM machine example.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/recursive_ATM_machine.js)
 * [Methods to parse <b>table to JSON</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/table_to_JSON.js)
+* [Como converter tabela em arquivo <b>csv</b> e realizar download.]()
 * [Change class CSS using JQuery.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/change_class_css.js)
 * [<b>onKeyPressed</b> Execute a JavaScript when a user presses a key.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/onkeypress_event.js)
 * [Creating a simple clock.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/simple_javascript_clock.js)

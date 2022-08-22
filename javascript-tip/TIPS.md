@@ -11,7 +11,6 @@
       usando [.serialize() jQuery.](https://api.jquery.com/serialize/)
     - Adicionando objeto em Query String método 1.
     - Convertendo objeto em Query String método 2.
-
 - Capitalizar `toUpperCase` primeira letra.
 - Use `performance.now` para medir a velocidade de execução.
 - `repeat()` Repetir uma determinada string concatenada na string original.

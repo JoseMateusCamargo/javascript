@@ -7,7 +7,7 @@
   Simple material with examples of JavaScript and JQuery.
 </p>
 
-### [Tips and tricks]()
+### [Tips and tricks](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/TIPS.md)
 
 - Trabalhando com **Query String** (converta formulário - objeto - adicione elemento).
     - Convertendo FormData de um formulário em Query String

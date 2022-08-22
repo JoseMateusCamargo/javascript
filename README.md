@@ -54,7 +54,7 @@
 ### [How to use (manual)](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/HTU.md)
 
 - Como usar `JSON.stringify()`.
-- Usando **Clausures**.
+- Trabalhando como **Clausures**.
 - `padStart()` como preenche a string original com um determinado caractere.
 - Criando uma _Syntax Highlighter_.
 - Metodos de uso de `console.log`.

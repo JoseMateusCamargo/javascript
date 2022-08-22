@@ -2,7 +2,7 @@
 
 # JavaScript
 
-### How to Use
+## How to Use
 
 - Como usar `JSON.stringify()`.
 - Usando **Clausures**.
@@ -21,7 +21,7 @@ Um closure (fechamento) é uma função que se "lembra" do ambiente — ou escop
 const outer = () => {
     let n = 42
     const inner = () => {
-        // Inner cand access the varibale n
+        // Inner não pode acessar a variável n
         console.log(n)
     }
 

@@ -5,14 +5,14 @@
 ## How to Use
 
 - Como usar `JSON.stringify()`.
-- Usando **Clausures**.
+- Trabalhando como **Clausures**.
 - `padStart()` como preenche a string original com um determinado caractere.
 - Criando uma _Syntax Highlighter_.
 - Metodos de uso de `console.log`.
 
 ---
 
-**Usando Clausures**
+**Trabalhando como Clausures**
 
 Um closure (fechamento) é uma função que se "lembra" do ambiente — ou escopo léxico — em que ela foi criada.
 [Documentação.](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Closures)

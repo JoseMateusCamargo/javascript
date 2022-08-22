@@ -7,15 +7,21 @@
   Simple material with examples of JavaScript and JQuery.
 </p>
 
-### Tips and tricks
+### [Tips and tricks]()
 
-* [Retorne os parametros de uma URL usando `new URL()`.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/url.instead.string.js)
-* [Trabalhando com <b>Query String</b> (converta formulário - objeto - adicione elemento).](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/working.query.parameters.js)
-* [Usando o operador nullish coalescing `??` em validação de variáveis.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/nullish.coalescing.js)
-* [Repetir uma determinada <b>string</b> concatenada na string original.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/using.string.repeat.js)
-* [Estilizando o `console.log`.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/estilo.in.console.js)
-* [Use `performance.now` to measure executation speed.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/performance.now.js)
-* [Capitalize (toUpperCase) first letter.](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/capitalize.first.letter.js)
+- Trabalhando com **Query String** (converta formulário - objeto - adicione elemento).
+    - Convertendo FormData de um formulário em Query String
+      usando [URLSearchParams.](https://developer.mozilla.org/pt-BR/docs/Web/API/URLSearchParams)
+    - Convertendo FormData de um formulário em Query String
+      usando [.serialize() jQuery.](https://api.jquery.com/serialize/)
+    - Adicionando objeto em Query String método 1.
+    - Convertendo objeto em Query String método 2.
+
+
+- Capitalizar `toUpperCase` primeira letra.
+- Use `performance.now` para medir a velocidade de execução.
+- `repeat()` Repetir uma determinada string concatenada na string original.
+- Retorne os parametros de uma URL usando new `URL()`.
 
 ---
 
@@ -55,6 +61,7 @@
 
 - Como usar `JSON.stringify()`.
 - Trabalhando com **Clausures**.
+- Usando o operador nullish coalescing `??` em validação de variáveis.
 - `padStart()` como preenche a string original com um determinado caractere.
 - Criando uma _Syntax Highlighter_.
 - Metodos de uso de `console.log`.

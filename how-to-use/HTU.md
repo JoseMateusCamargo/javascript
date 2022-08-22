@@ -6,9 +6,23 @@
 
 - Como usar `JSON.stringify()`.
 - Trabalhando com **Clausures**.
+- Usando o operador nullish coalescing `??` em validação de variáveis.
 - `padStart()` como preenche a string original com um determinado caractere.
 - Criando uma _Syntax Highlighter_.
 - Metodos de uso de `console.log`.
+    - console.info.
+    - console.error.
+    - console.warn.
+    - console.assert() _Assertividade que leva dois parâmetros_.
+    - console.counter().
+    - console.group().
+    - console.time() _Iniciando um cronometro_.
+    - console.table()
+        - Exemplo de um array de arrays.
+        - Exemplo de array de strings.
+    - console.trace() _Informe o rastro deixado pelas funções_.
+    - console.clear().
+    - Aplique CSS à sainda do console usando a diretiva "%c.
 
 ---
 
@@ -96,19 +110,6 @@ console.log(masked)
 
 **Metodos de uso de `console.log`.**
 
-- console.info.
-- console.error.
-- console.warn.
-- console.assert() _Assertividade que leva dois parâmetros_.
-- console.counter().
-- console.group().
-- console.time() _Iniciando um cronometro_.
-- console.table()
-    - Exemplo de um array de arrays.
-    - String array example.
-- console.trace() _Informe o rastro deixado pelas funções_.
-- console.clear().
-
 ````Javascript
 console.info('Information message')
 console.error('Error message')
@@ -149,4 +150,47 @@ one()
 
 console.log('Look at the trash...') // Look at the trash...
 console.clear() // Console was cleared
+
+// Aplique CSS à sainda do console usando a diretiva "%c"
+const style = `b
+color: #bc2e1e;
+padding: 5px;
+background: #edde9c;
+text-shadow: 0 1px 0px #378ab4, 1px 0 0px #5dabcd, 1px 2px 1px #378ab4, 2px 1px 1px #5dabcd, 2px 3px 2px #378ab4, 
+3px 2px 2px #5dabcd, 3px 4px 2px #378ab4, 4px 3px 3px #5dabcd, 4px 5px 3px #378ab4, 5px 4px 2px #5dabcd, 
+5px 6px 2px #378ab4, 6px 5px 2px #5dabcd, 6px 7px 1px #378ab4, 7px 6px 1px #5dabcd, 7px 8px 0px #378ab4, 
+8px 7px 0px #5dabcd;
+`
+console.log("%c Hello World! 😜", style)
+````
+
+**Usando o operador nullish coalescing `??` em validação de variáveis.**
+
+O operador de coalescência nula (??) é um operador lógico que retorna o seu operando do lado direito quando o seu
+operador do lado esquerdo é null ou undefined. Caso contrário, ele retorna o seu operando do lado esquerdo.
+Util quando se trabalho com números.
+
+Ao contrário do operador lógico OR (||), o operando esquerdo é retornado se houver um valor falsy (falso) que não
+seja null ou undefined. Em outras palavras, se você usar || para obter algum valor padrão para outra variável foo,
+você pode enfrentar comportamentos inesperados se você considerar algum valor falseável como utilizável (eg. '' ou 0).
+Veja abaixo alguns exemplos:
+
+````Javascript
+let price_1 = 0
+let price_2
+
+// Atribuindo um padrão se "preço" não estiver definido.
+const default_price_1_not_set = price_1 || 10
+const default_price_2_not_set = price_2 || 20
+
+console.log(`Price 1: ${default_price_1_not_set}, Price 2: ${default_price_2_not_set}`) // Price 1: 10, Price 2: 20
+
+let price_3 = 0
+let price_4
+
+// Atribuindo um padrão se "preço" não estiver definido.
+const default_price_1_set = price_3 ?? 30
+const default_price_2_set = price_4 ?? 40
+
+console.log(`Price 1: ${default_price_1_set}, Price 2: ${default_price_2_set}`) // Price 1: 0, Price 2: 40
 ````

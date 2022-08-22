@@ -23,7 +23,7 @@
 * [15 Javascript codes you will always need. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/15.code.md)
 * [Simple way to reverse string. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/reverse.string.js)
 * [Using the Reviver Function in JSON.parse](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/json.parse_reviver.js)
-* [Trabalhando com datas.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/date.js)
+* [Formatando datas `(... 30/06/2022)`](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/formatando.datas.js)
 * [Difference between using <i>for in</i> and <i>for of</i>.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/loops_for-in_and_for-of.js)
 * [Como usar o operador Spread `(…)`.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/spread.operator.js)
 

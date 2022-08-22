@@ -49,15 +49,15 @@
 * [XMLHttp Request - pure Javascript.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/XMLHttp.request.js)
 * [Send a token (headers) using <b>AJAX</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/send.token.using.ajax.js)
 
-### How to use (manual)
+---
 
-> * [<b>Generators </b> Understanding JS Generators.](https://github.com/JoseMateusCamargo/javascript/blob/main/generators/gener.app.js)
+### [How to use (manual)]()
 
-* [Entendendo <b>clousures</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/clousures.js)
-* [Destaque de sintaxe HTML <b>String.raw()</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/html.syntax.highlighting.js)
-* [Format the output of JSON.stringify.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/json.stringify_format.js)
-* [Diferentes tipos de <b>console.log</b> (info - table - assert - time - trace and more...).](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/console.methods.js)
-* [<b>padStar</b> Method pads the current string with another string.](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/padStart.js)
+- Como usar `JSON.stringify()`.
+- Usando **Clausures**.
+- `padStart()` como preenche a string original com um determinado caractere.
+- Criando uma _Syntax Highlighter_.
+- Metodos de uso de `console.log`.
 
 ---
 

@@ -51,7 +51,7 @@
 
 ---
 
-### [How to use (manual)]()
+### [How to use (manual)](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/HTU.md)
 
 - Como usar `JSON.stringify()`.
 - Usando **Clausures**.

@@ -9,26 +9,28 @@
 
 ### [Tips and tricks](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/TIPS.md)
 
-- Trabalhando com **Query String** (converta formulário - objeto - adicione elemento).
+- Trabalhando com `Query String` (converta formulário - objeto - adicione elemento).
     - Convertendo FormData de um formulário em Query String
       usando [URLSearchParams.](https://developer.mozilla.org/pt-BR/docs/Web/API/URLSearchParams)
     - Convertendo FormData de um formulário em Query String
       usando [.serialize() jQuery.](https://api.jquery.com/serialize/)
     - Adicionando objeto em Query String método 1.
     - Convertendo objeto em Query String método 2.
+- Get `Query Parameters` de uma URL.
 - Capitalizar `toUpperCase` primeira letra.
+- Reverter string.
+- Retorna o _status_ online do navegador.
+- Trabalhando com `localStorage`.
+- Check se data é valida.
+- Limpar todos os `cookies`.
 - Use `performance.now` para medir a velocidade de execução.
 - `repeat()` Repetir uma determinada string concatenada na string original.
 - Retorne os parametros de uma URL usando new `URL()`.
 
 ---
 
-* [Como detectar se o usuário está <b>Online</b> / <b>Offline</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/navigator.online.offine.js)
-* [15 Javascript codes you will always need. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/15.code.md)
-* [Simple way to reverse string. ](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/reverse.string.js)
 * [Using the Reviver Function in JSON.parse](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/json.parse_reviver.js)
 * [Formatando datas `(... 30/06/2022)`](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/formatando.datas.js)
-* [Difference between using <i>for in</i> and <i>for of</i>.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/loops_for-in_and_for-of.js)
 * [Como usar o operador Spread `(…)`.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/spread.operator.js)
 
 ### Text Preprocessing
@@ -45,7 +47,6 @@
 * [<b>ClearInterval</b>, clearing <b>SetInterval</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/clear.setInterval.js)
 * [Convert value to local currency.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/convert.value.to.local.currency.js)
 * [Convert second to hour.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/second.to.hour.js)
-* [Using <b>localStorage</b> to define a variable.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/set.and.get.localStorage.js)
 
 ### Request Method
 
@@ -95,7 +96,26 @@
 
 ### Array Cheatsheet 🚀
 
-* [Manipulating Arrays in JavaScript](https://github.com/JoseMateusCamargo/javascript/tree/master/arrays-manipulating#readme)
+### [Trabalhando com Arrays](https://github.com/JoseMateusCamargo/javascript/tree/master/arrays-manipulating#readme)
+
+- _Check_ se um array está vazio.
+- Remover valores duplicados em um array.
+- Encontrando item com função `array.find`.
+- Remover valores dublicados de qualquer tipo in array usando objeto `set`.
+- Retornar o item referente a sua index usando `array.at`.
+- Checar se todos os elementos passam no teste usando `array.every`.
+- Removendo valor `False` em um array.
+- _Static methods_ (convertendo ou criando novas matrizes)
+- _Mutation methods_ (inserir, remover..) itens em um array.
+- Trabalhando com `loop` (`for-in`, `for-of`, `.forEach`).
+- Outros métodos de instância pura que não alteram o array.
+- Trabalhando com ES6 features (_nova versão do javascript_).
+- [Encontrando id máximo em um array de objetos](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/find.max.id.array.objects.js) : (
+  array.forEach, map, reduce e Math.max).
+- [Usando outros metodos de `loop`](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/replacing.traditional.loops.js) :
+  (map, filter, find, findIndex, reduce, every, some, sort ...).
+
+---
 
 ![alt text](assets/img/array_cheatsheet.png)
 

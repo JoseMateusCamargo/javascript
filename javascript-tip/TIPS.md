@@ -4,21 +4,27 @@
 
 ## Tips
 
-- Trabalhando com **Query String** (converta formulário - objeto - adicione elemento).
+- Trabalhando com `Query String` (converta formulário - objeto - adicione elemento).
     - Convertendo FormData de um formulário em Query String
       usando [URLSearchParams.](https://developer.mozilla.org/pt-BR/docs/Web/API/URLSearchParams)
     - Convertendo FormData de um formulário em Query String
       usando [.serialize() jQuery.](https://api.jquery.com/serialize/)
     - Adicionando objeto em Query String método 1.
     - Convertendo objeto em Query String método 2.
+- Get `Query Parameters` de uma URL.
 - Capitalizar `toUpperCase` primeira letra.
+- Reverter string.
+- Retorna o _status_ online do navegador.
+- Trabalhando com `localStorage`.
+- Check se data é valida.
+- Limpar todos os `cookies`.
 - Use `performance.now` para medir a velocidade de execução.
 - `repeat()` Repetir uma determinada string concatenada na string original.
 - Retorne os parametros de uma URL usando new `URL()`.
 
 ---
 
-**Trabalhando com **Query String** (converta formulário - objeto - adicione elemento)**
+**Trabalhando com `Query String` (converta formulário - objeto - adicione elemento)**
 
 ````Javascript
 //--------------------[Convertendo FormData de um formulário em Query String usando URLSearchParams]
@@ -47,14 +53,23 @@ let query_string = Object.keys(object).map(key => `${key}=${object[key]}`).join(
 console.log(query_string)
 ````
 
+**Get `Query Parameters` de uma URL**
+
+```Javascript
+const getParameters = (URL) => {
+    URL = JSON.parse('{"' + decodeURI(URL.split("?")[1])
+        .replace(/"/g, '\\"').replace(/&/g, '","').replace(/=/g, '":"') + '"}');
+
+    return JSON.stringify(URL);
+};
+getParameters(window.location) // { search : "easy", page : 3 }
+```
+
 **Capitalizar `toUpperCase` primeira letra**
 
 ````Javascript
-const capitalize = ([first, ...rest]) => {
-    return first.toUpperCase() + rest.join('')
-}
-
-console.info(capitalize('user'))
+const capitalize = str => str.charAt(0).toUpperCase() + str.slice(1)
+capitalize("follow for more")
 ````
 
 **`repeat()` Repetir uma determinada string concatenada na string original.**
@@ -88,7 +103,7 @@ console.log(time)
 **Retorne os parametros de uma URL usando new `URL()`.**
 
 O URL()construtor retorna um URL objeto recém-criado representando a URL definida pelos parâmetros.
-Documentation: https://developer.mozilla.org/en-US/docs/Web/API/URL/URL
+[Documentação.](https://developer.mozilla.org/en-US/docs/Web/API/URL/URL)
 
 ````Javascript
 const url = new URL('https://teste.com/path/to/jmc?query=set')
@@ -116,3 +131,82 @@ hash: ''
 }
 */
 ````
+
+**Reverter string**
+
+```JavaScript
+const str = 'Jshhhfje9998'
+
+String.prototype.reverseString = function () {
+    return [...this].reverse().join('')
+}
+
+console.log(str.reverseString())
+```
+
+**Retorna o _status_ online do navegador**
+
+A propriedade retorna um valor booleano, com true significado online e false
+offline. A propriedade envia atualizações sempre que a capacidade do navegador de se conectar à rede muda.
+A atualização ocorre quando o usuário segue links ou quando um script solicita uma página remota. Por exemplo,
+a propriedade deve retornar falsequando os usuários clicarem nos links logo após perderem a conexão com a internet.
+[Documentação.](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/onLine)
+
+````Javascript
+window.addEventListener('online', updateOnlineStatus)
+window.addEventListener('offline', updateOnlineStatus)
+
+function updateOnlineStatus(e) {
+    const condition = navigator.onLine ? `You're online! 😄` : `You're offline! 😢`;
+    console.log(`${condition}`)
+}
+````
+
+**Trabalhando com `localStorage`**
+
+```Javascript
+// First page
+window.onload = function () {
+    const getInput = prompt("Hey type something here: ");
+    localStorage.setItem("storageName", getInput);
+}
+
+// Second page
+window.onload = alert(localStorage.getItem("storageName"));
+```
+
+**Check se data é valida**
+
+```Javascript
+const isDateValid = (...val) => !Number.isNaN(new Date(...val).valueOf());
+isDateValid("December 17, 1995 03:24:00"); // True
+```
+
+**Limpar todos os `cookies`**
+
+```Javascript
+const clearCookies = document.cookie.split(';')
+    .forEach(cookie => document.cookie = cookie.replace(/^ +/, '')
+        .replace(/=.*/, `=;expires=${new Date(0).toUTCString()};path=/`));
+```
+
+**Encontrar o dia de um ano**
+
+```Javascript
+const dayOfYear = (date) => Math.floor((date - new Date(date.getFullYear(), 0, 0)) / 1000 / 60 / 60 / 24);
+dayOfYear(new Date()) // 272
+```
+
+**Calcular dias entres duas datas**
+
+```Javascript
+const dayDif = (date1, date2) => Math.ceil(Math.abs(date1.getTime() - date2.getTime()) / 86400000)
+dayDif(new Date("2020-10-21"), new Date("2021-10-22")) // 366
+```
+
+**Gerar hexadecimal randomico**
+
+```Javascript
+const randomHex = () => `#${Math.floor(Math.random() * 0xffffff).toString(16).padEnd(6, "0")}`;
+console.log(randomHex()); // #92b008
+```

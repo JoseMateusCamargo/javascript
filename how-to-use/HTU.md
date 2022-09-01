@@ -4,6 +4,7 @@
 
 ## How to Use
 
+- **Generator**.
 - Como usar `JSON.stringify()`.
 - Trabalhando com **Clausures**.
 - Usando o operador nullish coalescing `??` em validação de variáveis.
@@ -26,9 +27,38 @@
 
 ---
 
+**Generator**
+
+```javascript
+const my_base = _ => Promise.resolve([{name: 'user 1'}, {name: 'user 2'}])
+
+// my_base poderia ser um generator que entrega dados do banco paginados
+async function* processGenerators() {
+    for (const item of await my_base()) {
+        yield item.name.toUpperCase();
+    }
+}
+
+// pos processamento sobre demanda
+for await (const item of processGenerators()) {
+    console.log(item)
+}
+
+//--------------------[Normal function]
+async function process() {
+    const data = await my_base()
+    return data.map(item => item.name.toUpperCase())
+}
+
+const data = await process()
+data.forEach(item => console.log(item))
+
+// Credits: Erick Wendel
+```
+
 **Trabalhando com Clausures**
 
-Um closure (fechamento) é uma função que se "lembra" do ambiente — ou escopo léxico — em que ela foi criada.
+Uma `closure` (fechamento) é uma função que se "lembra" do ambiente — ou escopo léxico — em que ela foi criada.
 [Documentação.](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Closures)
 
 ````Javascript
@@ -48,7 +78,7 @@ inner()
 
 **Como usar `JSON.stringify()`**
 
-O método JSON.stringify() converte valores em javascript para uma String JSON. Esses valores podem ser substituidos
+O método `JSON.stringify()` converte valores em javascript para uma String JSON. Esses valores podem ser substituidos
 especificando a função replacer, ou incluindo somente as propriedades específicas, quando o array do replacer for
 especificado. [Documentação.](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
 
@@ -68,7 +98,7 @@ JSON.stringify(some_obj) // {"name": "one",    "age": 33,    "online": true }
 
 **Criando uma _Syntax Highlighter_**
 
-O método estático String.raw() é uma função tag de modelos literais.
+O método estático `String.raw()` é uma função tag de modelos literais.
 [Documentação.](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/raw)
 
 ````Javascript
@@ -97,7 +127,7 @@ const markup_highlight = String.raw`
 
 **`padStart()` como preenche a string original com um determinado caractere**.
 
-O método padStart() preenche a string original com um determinado caractere, ou conjunto de caracteres,
+O método `padStart()` preenche a string original com um determinado caractere, ou conjunto de caracteres,
 (várias vezes, se necessário) até que a string resultante atinja o comprimento fornecido. O preenchimento
 é aplicado antes do primeiro caractere da string original. A string original não é modificada.
 

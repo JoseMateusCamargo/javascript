@@ -7,6 +7,16 @@
   Simple material with examples of JavaScript and JQuery.
 </p>
 
+### [How to use (manual)](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/HTU.md)
+
+- **Generator**.
+- Como usar `JSON.stringify()`.
+- Trabalhando com **Clausures**.
+- Usando o operador nullish coalescing `??` em validação de variáveis.
+- `padStart()` como preenche a string original com um determinado caractere.
+- Criando uma _Syntax Highlighter_.
+- Metodos de uso de `console.log`.
+
 ### [Tips and tricks](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/TIPS.md)
 
 - Trabalhando com `Query String` (converta formulário - objeto - adicione elemento).
@@ -53,17 +63,6 @@
 * [Send the authorization header using <b>Axios</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/send.header.using.axios.js)
 * [XMLHttp Request - pure Javascript.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/XMLHttp.request.js)
 * [Send a token (headers) using <b>AJAX</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/send.token.using.ajax.js)
-
----
-
-### [How to use (manual)](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/HTU.md)
-
-- Como usar `JSON.stringify()`.
-- Trabalhando com **Clausures**.
-- Usando o operador nullish coalescing `??` em validação de variáveis.
-- `padStart()` como preenche a string original com um determinado caractere.
-- Criando uma _Syntax Highlighter_.
-- Metodos de uso de `console.log`.
 
 ---
 

@@ -2,7 +2,7 @@
 
 # JavaScript
 
-## How to Use
+## How to Use (manual)
 
 - **Generator**.
 - Como usar `JSON.stringify()`.

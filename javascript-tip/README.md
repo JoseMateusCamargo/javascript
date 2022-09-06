@@ -2,17 +2,10 @@
 
 # JavaScript
 
-## Tips
+## Dicas e Truques
 
+- Formatando datas.
 - Como detectar URL in texto e retornar como `Link`.
-- Trabalhando com `Query String` (converta formulário - objeto - adicione elemento).
-    - Convertendo FormData de um formulário em Query String
-      usando [URLSearchParams.](https://developer.mozilla.org/pt-BR/docs/Web/API/URLSearchParams)
-    - Convertendo FormData de um formulário em Query String
-      usando [.serialize() jQuery.](https://api.jquery.com/serialize/)
-    - Adicionando objeto em Query String método 1.
-    - Convertendo objeto em Query String método 2.
-- Get `Query Parameters` de uma URL.
 - Capitalizar `toUpperCase` primeira letra.
 - Reverter string.
 - Retorna o _status_ online do navegador.
@@ -25,6 +18,14 @@
 - Converter valor para moeda local.
 - Convertendo segundos em horas.
 - Como parar loop `setInterval`.
+- Trabalhando com `Query String` (converta formulário - objeto - adicione elemento).
+    - Convertendo FormData de um formulário em Query String
+      usando [URLSearchParams.](https://developer.mozilla.org/pt-BR/docs/Web/API/URLSearchParams)
+    - Convertendo FormData de um formulário em Query String
+      usando [.serialize() jQuery.](https://api.jquery.com/serialize/)
+    - Adicionando objeto em Query String método 1.
+    - Convertendo objeto em Query String método 2.
+- Get `Query Parameters` de uma URL.
 
 ---
 
@@ -264,4 +265,34 @@ function myStopFunction() {
     console.log("Stopping loop with clearInterval!")
     clearInterval(myVar)
 }
+```
+
+**Formatando datas**
+
+```Javascript
+//--------------------[1 Método] => 30/06/2022
+const data = new Date()
+const dateFormat = data.toLocaleDateString('pt-BR', {day: '2-digit', month: '2-digit', year: 'numeric'})
+console.log(dateFormat)
+
+//--------------------[2 Método] => 30/6/2022
+const date_ = new Date()
+const day = date_.getDate()
+const month = date_.getMonth() + 1
+const year = date_.getFullYear()
+const yesterday = date_.getDate() - 1
+console.log(`${day}/${month}/${year}`)
+
+//--------------------[3 Método] => 2022-06-30
+console.log(new Date().toJSON().slice(0, 10))
+
+//--------------------[4 Método] => 30 Jun 2022
+console.log(new Date().toUTCString().slice(5, 16))
+
+//--------------------[Extra]
+const data_string = new Date('10/08/2015 00:00:00')
+data_string.toLocaleString() // 08/10/2015 00:00:00
+data_string.toString() // Thu Oct 08 2015 00:00:00 GMT-0300 (Horário Padrão de Brasília)
+data_string.toUTCString() // Thu, 08 Oct 2015 03:00:00 GMT
+console.log(data_string.toLocaleString() + '\n' + data_string.toString() + '\n' + data_string.toUTCString())
 ```

@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/M6nBBb0/mascote.png" align="right" width="150">
 
-# JavaScript and JQuery
+# JavaScript e JQuery
 
 <p>
   Material simples com exemplos de JavaScript and JQuery.<br/>
@@ -19,15 +19,8 @@
 
 ### [Dicas e Truques](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/README.md)
 
+- Formatando datas.
 - Como detectar URL in texto e retornar como `Link`.
-- Trabalhando com `Query String` (converta formulário - objeto - adicione elemento).
-    - Convertendo FormData de um formulário em Query String
-      usando [URLSearchParams.](https://developer.mozilla.org/pt-BR/docs/Web/API/URLSearchParams)
-    - Convertendo FormData de um formulário em Query String
-      usando [.serialize() jQuery.](https://api.jquery.com/serialize/)
-    - Adicionando objeto em Query String método 1.
-    - Convertendo objeto em Query String método 2.
-- Get `Query Parameters` de uma URL.
 - Capitalizar `toUpperCase` primeira letra.
 - Reverter string.
 - Retorna o _status_ online do navegador.
@@ -40,6 +33,14 @@
 - Converter valor para moeda local.
 - Convertendo segundos em horas.
 - Como parar loop `setInterval`.
+- Trabalhando com `Query String` (converta formulário - objeto - adicione elemento).
+    - Convertendo FormData de um formulário em Query String
+      usando [URLSearchParams.](https://developer.mozilla.org/pt-BR/docs/Web/API/URLSearchParams)
+    - Convertendo FormData de um formulário em Query String
+      usando [.serialize() jQuery.](https://api.jquery.com/serialize/)
+    - Adicionando objeto em Query String método 1.
+    - Convertendo objeto em Query String método 2.
+- Get `Query Parameters` de uma URL.
 
 ---
 

@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/M6nBBb0/mascote.png" align="right" width="150">
 
-# JavaScript and JQuery
+# JavaScript e JQuery
 
 ## Trabalhando com Arrays in JavaScript
 

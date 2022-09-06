@@ -7,7 +7,7 @@
   Simple material with examples of JavaScript and JQuery.
 </p>
 
-### [How to use (manual)](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/HTU.md)
+### [How to use (manual)](https://github.com/JoseMateusCamargo/javascript/blob/main/how-to-use/README.md)
 
 - **Generator**.
 - Como usar `JSON.stringify()`.
@@ -17,7 +17,7 @@
 - Criando uma _Syntax Highlighter_.
 - Metodos de uso de `console.log`.
 
-### [Tips and tricks](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/TIPS.md)
+### [Dicas e Truques](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/README.md)
 
 - Como detectar URL in texto e retornar como `Link`.
 - Trabalhando com `Query String` (converta formulário - objeto - adicione elemento).

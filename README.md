@@ -19,6 +19,7 @@
 
 ### [Tips and tricks](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/TIPS.md)
 
+- Como detectar URL in texto e retornar como `Link`.
 - Trabalhando com `Query String` (converta formulário - objeto - adicione elemento).
     - Convertendo FormData de um formulário em Query String
       usando [URLSearchParams.](https://developer.mozilla.org/pt-BR/docs/Web/API/URLSearchParams)
@@ -36,6 +37,9 @@
 - Use `performance.now` para medir a velocidade de execução.
 - `repeat()` Repetir uma determinada string concatenada na string original.
 - Retorne os parametros de uma URL usando new `URL()`.
+- Converter valor para moeda local.
+- Convertendo segundos em horas.
+- Como parar loop `setInterval`.
 
 ---
 
@@ -51,12 +55,8 @@
 
 ### Stack Overflow
 
-* [Como detectar <b>URL</b> in texto e retornar como <b>link</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/detect.urls.in.text.js)
 * [Get substring after or before string.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/get.string.at.substring.js)
 * [Get element by XPATH.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/get.element.by.xpath.js)
-* [<b>ClearInterval</b>, clearing <b>SetInterval</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/clear.setInterval.js)
-* [Convert value to local currency.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/convert.value.to.local.currency.js)
-* [Convert second to hour.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/second.to.hour.js)
 
 ### Request Method
 

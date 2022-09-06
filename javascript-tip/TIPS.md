@@ -4,6 +4,7 @@
 
 ## Tips
 
+- Como detectar URL in texto e retornar como `Link`.
 - Trabalhando com `Query String` (converta formulário - objeto - adicione elemento).
     - Convertendo FormData de um formulário em Query String
       usando [URLSearchParams.](https://developer.mozilla.org/pt-BR/docs/Web/API/URLSearchParams)
@@ -21,8 +22,21 @@
 - Use `performance.now` para medir a velocidade de execução.
 - `repeat()` Repetir uma determinada string concatenada na string original.
 - Retorne os parametros de uma URL usando new `URL()`.
+- Converter valor para moeda local.
+- Convertendo segundos em horas.
+- Como parar loop `setInterval`.
 
 ---
+
+**Como detectar URL in texto e retornar como `Link`**
+
+```Javascript
+let detect = (text) => {
+    return text.replace(/(https?:\/\/[^\s]+)/g, "<a href='$1' target='_blank' >$1</a>")
+}
+
+console.log(detect('https://example.com is a great site, and other https://other.example.com '))
+```
 
 **Trabalhando com `Query String` (converta formulário - objeto - adicione elemento)**
 
@@ -209,4 +223,45 @@ dayDif(new Date("2020-10-21"), new Date("2021-10-22")) // 366
 ```Javascript
 const randomHex = () => `#${Math.floor(Math.random() * 0xffffff).toString(16).padEnd(6, "0")}`;
 console.log(randomHex()); // #92b008
+```
+
+**Converter valor para moeda local**
+
+```javascript
+function converter(value) {
+    let option = {style: 'currency', currency: 'BRL'}
+    return value.toLocaleString('pt-BR', option)
+}
+
+console.log(converter(8300))
+```
+
+**Convertendo segundos em horas**
+
+```Javascript
+function secToHour(seconds) {
+    const isoString = new Date(seconds * 1000).toISOString().substr(11, 8)
+    const [hour, minute, second] = isoString.split(':');
+
+    return `${hour}:${minute}:${second}`.replace(/^00:/, "")
+}
+
+console.log(secToHour(7548))
+```
+
+**Como parar loop `setInterval`**
+
+```Javascript
+const myVar = setInterval(myTimer, 1000);
+
+function myTimer() {
+    console.log("Loop with setInterval!")
+    const d = new Date()
+    console.log(d.toLocaleTimeString())
+}
+
+function myStopFunction() {
+    console.log("Stopping loop with clearInterval!")
+    clearInterval(myVar)
+}
 ```

@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/M6nBBb0/mascote.png" align="right" width="150">
 
-# JavaScript e JQuery
+# JavaScript e JQuery 
 
 <p>
   Material simples com exemplos de JavaScript and JQuery.<br/>

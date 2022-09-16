@@ -47,6 +47,8 @@
 - Amazon Interview Question.
 - Contador de ocorrencia.
 
+### [Entendo 'Object']()
+
 ---
 
 * [Using the Reviver Function in JSON.parse](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/json.parse_reviver.js)
@@ -71,10 +73,7 @@
 
 > Um objeto é uma coleção de propriedades, e uma propriedade é uma associação entre um nome (ou chave) e um valor.
 
-* [<b>Object.freeze</b>, let's go freezing an object.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/Object.freeze.js)
-* [Sealing an object with <b>Object.seal</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/Object.seal.js)
 * [Using <b>Object literal</b> like a boss.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/obj.literal.js)
-* [<b>Object.values</b>, get values of JSON, using <b>forEach</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/Object.values.js)
 
 ### Snippets
 

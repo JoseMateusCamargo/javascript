@@ -4,6 +4,8 @@
 
 ## Dicas e Truques
 
+- Obter substring _antes_ ou _depois_ de um caracter especifico.
+- Acessando elemento usando `ByXpath`.
 - Formatando datas.
 - Como detectar URL in texto e retornar como `Link`.
 - Capitalizar `toUpperCase` primeira letra.
@@ -28,6 +30,39 @@
 - Get `Query Parameters` de uma URL.
 
 ---
+
+**Acessando elemento usando `ByXpath`**
+
+```Javascript
+function getElementByXpath(path) {
+    return document.evaluate(path, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+}
+
+console.log(getElementByXpath('/html/body/div[1]/div[3]/form/div[1]/div[1]/div[3]/center/input[1]'))
+```
+
+**Obter substring _antes_ ou _depois_ de um caracter especifico**
+
+```Javascript
+const text = 'Q1.0';
+let substring = '.'
+
+//-------------------- [Using substring() method]
+console.log(text.substring(0, text.indexOf(substring)))
+console.log(text.substring(text.indexOf(substring) + substring.length))
+
+//-------------------- [Using function]
+function getStringAfterSubstring(parentString, substring) {
+    return parentString.substring(parentString.indexOf(substring) + substring.length)
+}
+
+function getStringBeforeSubstring(parentString, substring) {
+    return parentString.substring(0, parentString.indexOf(substring))
+}
+
+console.log(getStringAfterSubstring(text, substring))
+console.log(getStringBeforeSubstring(text, substring))
+```
 
 **Como detectar URL in texto e retornar como `Link`**
 

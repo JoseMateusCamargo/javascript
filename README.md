@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/M6nBBb0/mascote.png" align="right" width="150">
 
-# JavaScript e JQuery 
+# JavaScript e JQuery
 
 <p>
   Material simples com exemplos de JavaScript and JQuery.<br/>
@@ -42,6 +42,11 @@
     - Convertendo objeto em Query String método 2.
 - Get `Query Parameters` de uma URL.
 
+### [Some interview questions.](https://github.com/JoseMateusCamargo/javascript/blob/master/interview-question/README.md)
+
+- Amazon Interview Question.
+- Contador de ocorrencia.
+
 ---
 
 * [Using the Reviver Function in JSON.parse](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/json.parse_reviver.js)
@@ -53,11 +58,6 @@
 * [Substituir/ remover caracteres especiais com <b>normalize</b> e <b>replace</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/text-preprocessing/removendo.caracteres.especiais.js)
 * [Selecionar combinações de caracteres em uma string com <i>Expressões Regulares</i>.](https://github.com/JoseMateusCamargo/javascript/blob/main/text-preprocessing/regex.js)
 * [<b>Stop word</b>, pequena função/ grande trabalho.](https://github.com/JoseMateusCamargo/javascript/blob/main/text-preprocessing/stopword.js)
-
-### Stack Overflow
-
-* [Get substring after or before string.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/get.string.at.substring.js)
-* [Get element by XPATH.](https://github.com/JoseMateusCamargo/javascript/blob/main/stackoverflow/get.element.by.xpath.js)
 
 ### Request Method
 
@@ -76,10 +76,6 @@
 * [Using <b>Object literal</b> like a boss.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/obj.literal.js)
 * [<b>Object.values</b>, get values of JSON, using <b>forEach</b>.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/Object.values.js)
 
-### Interview Question
-
-* [Some interview questions.](https://github.com/JoseMateusCamargo/javascript/blob/master/interview-question/README.md)
-
 ### Snippets
 
 * [Carousel Logic.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/carousel_logic.js)
@@ -92,12 +88,9 @@
 * [<b>onKeyPressed</b> Execute a JavaScript when a user presses a key.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/onkeypress_event.js)
 * [Creating a simple clock.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/simple_javascript_clock.js)
 
----
-
-### Array Cheatsheet 🚀
-
 ### [Trabalhando com Arrays](https://github.com/JoseMateusCamargo/javascript/tree/master/arrays-manipulating#readme)
 
+- _Check_ se um array está vazio.
 - _Check_ se um array está vazio.
 - Remover valores duplicados em um array.
 - Encontrando item com função `array.find`.
@@ -107,15 +100,17 @@
 - Removendo valor `False` em um array.
 - _Static methods_ (convertendo ou criando novas matrizes)
 - _Mutation methods_ (inserir, remover..) itens em um array.
-- Trabalhando com `loop` (`for-in`, `for-of`, `.forEach`).
+- Trabalhando com **loop** :b`for-in`, `for-of`, `.forEach`.
 - Outros métodos de instância pura que não alteram o array.
 - Trabalhando com ES6 features (_nova versão do javascript_).
-- [Encontrando id máximo em um array de objetos](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/find.max.id.array.objects.js) : (
-  array.forEach, map, reduce e Math.max).
-- [Usando outros metodos de `loop`](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/replacing.traditional.loops.js) :
-  (map, filter, find, findIndex, reduce, every, some, sort ...).
+- [Encontrando id máximo em um array de objetos](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/find.max.id.array.objects.js) :
+  `array.forEach`, `map`, `reduce` e `Math.max`.
+- [Usando outros metodos de loop](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/replacing.traditional.loops.js) :
+  `map`, `filter`, `find`, `findIndex`, `reduce`, `every`, `some`, `sort` ...
 
 ---
+
+### Array Cheatsheet 🚀
 
 ![alt text](assets/img/array_cheatsheet.png)
 

@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/M6nBBb0/mascote.png" align="right" width="150">
+<img src="https://i.ibb.co/M6nBBb0/mascote.png" align="right" width="130">
 
 # JavaScript e JQuery
 
@@ -13,13 +13,13 @@
 - Removendo valor `False` em um array.
 - _Static methods_ (convertendo ou criando novas matrizes)
 - _Mutation methods_ (inserir, remover..) itens em um array.
-- Trabalhando com `loop` (`for-in`, `for-of`, `.forEach`).
+- Trabalhando com **loop** :b`for-in`, `for-of`, `.forEach`.
 - Outros métodos de instância pura que não alteram o array.
 - Trabalhando com ES6 features (_nova versão do javascript_).
-- [Encontrando id máximo em um array de objetos](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/find.max.id.array.objects.js) : (
-  array.forEach, map, reduce e Math.max).
-- [Usando outros metodos de `loop`](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/replacing.traditional.loops.js) :
-  (map, filter, find, findIndex, reduce, every, some, sort ...).
+- [Encontrando id máximo em um array de objetos](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/find.max.id.array.objects.js) :
+  `array.forEach`, `map`, `reduce` e `Math.max`.
+- [Usando outros metodos de loop](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/replacing.traditional.loops.js) :
+  `map`, `filter`, `find`, `findIndex`, `reduce`, `every`, `some`, `sort` ...
 
 ---
 
@@ -143,7 +143,7 @@ fruits.shift() // "🍉"
 console.log(fruits) // ["🍏", "🍌", "🍒", "🍑", "🥑"]
 ```
 
-**Trabalhando com `loop` (`for-in`, `for-of`, `.forEach`)**
+**Trabalhando com loop :`for-in`, `for-of`, `.forEach`**
 
 ```Javascript
 const months = ["January", "February", "March", "April", "May", "June", "July"]
@@ -212,10 +212,3 @@ console.log(others); // ["🍌", "🍒"]
 #### Array methods 🚀
 
 ![alt text](../assets/img/array_methods_in_js.jpeg)
-
-### Direitos de uso (Use rights)
-
-<p>
-  Você tem todo o direito de usar esse material para seu próprio aprendizado.<br/>
-  You can use this material for your own learning.
-</p>

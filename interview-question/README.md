@@ -1,21 +1,15 @@
-﻿﻿<img src="https://i.ibb.co/M6nBBb0/mascote.png" align="right" width="225">
+﻿<img src="https://i.ibb.co/M6nBBb0/mascote.png" align="right" width="130">
 
 # JavaScript
 
-<p>
-  Material simples com exemplos de JavaScript.<br/>
-  Simple material with examples of JavaScript.
-</p>
+## Interview Question
 
-### Interview Question
-
-#### Outras
-
-* [Contador de ocorrencia.](https://github.com/JoseMateusCamargo/javascript/blob/main/interview-question/contador.ocorrencia.js)
+- Amazon Interview Question.
+- Contador de ocorrencia.
 
 --- 
 
-### Amazon Interview Question.
+**Amazon Interview Question**
 
 **[1] Cell compete**:
 Oito casas, representadas como células, são dispostas em linha reta. A cada dia, todas as células competem com células
@@ -26,9 +20,18 @@ lado oposto seja uma célula inativa, mesmo depois de atualizar o estado da cél
 atualizar o estado das outras células. As informações de estado das células devem ser atualizadas simultaneamente.
 [Solution](https://github.com/JoseMateusCamargo/javascript/blob/main/interview-question/amazon.cell.compete.js)
 
-### Direitos de uso (Use rights)
+**Contador de ocorrencia**
 
-<p>
-  Você tem todo o direito de usar esse material para seu próprio aprendizado.<br/>
-  You can use this material for your own learning.
-</p>
+```Javascript
+const frequencies = (arr) =>
+    arr.reduce((a, v) => {
+        a[v] = a[v] ? a[v] + 1 : 1
+        return a
+    }, {})
+
+console.log(frequencies(['a', 'b', 'b', 'f', 'b', 'b', 'w']))
+// { a: 1, b: 4, f: 1, w: 1 }
+
+console.log(frequencies([...'contador de ocorrencia']))
+// { c: 3, o: 4, n: 2, t: 1, a: 2, d: 2, r: 3, ' ': 2, e: 2, i: 1 }
+```

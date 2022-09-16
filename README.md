@@ -67,17 +67,17 @@
 * [XMLHttp Request - pure Javascript.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/XMLHttp.request.js)
 * [Send a token (headers) using <b>AJAX</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/send.token.using.ajax.js)
 
-### Snippets
+### [Snippets]()
 
-* [Carousel Logic.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/carousel_logic.js)
-* [Capture Barcode-Qrcode reader (keyboard-wedge) events.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/capture.barcode.reader.keyborad.wedge.js)
-* [Counting occurrences in a string.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/count_occurrences.js)
-* [Recursive Function in ATM machine example.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/recursive_ATM_machine.js)
-* [Methods to parse <b>table to JSON</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/table_to_JSON.js)
-* [Como converter tabela em arquivo <b>csv</b> e realizar download.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/table.to.csv.download.js)
-* [Change class CSS using JQuery.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/change_class_css.js)
-* [<b>onKeyPressed</b> Execute a JavaScript when a user presses a key.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/onkeypress_event.js)
-* [Creating a simple clock.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/simple_javascript_clock.js)
+- [Capturar eventos do leitor de código de barras-Qrcode](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/capture.barcode.reader.keyborad.wedge.js)
+- `onKeyPressed` Executa um JavaScript quando um usuário pressiona uma tecla.
+- Contador de ocorrencias em uma `string`.
+- Métodos simples para converter a tabela para `JSON`.
+- Criando um relógio simples.
+- Criando carrosel.
+- Altere o _CSS_ da classe usando _JQuery_
+- [Função recursiva em exemplo de máquina ATM.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/recursive_ATM_machine.j)
+- [Como converter tabela em arquivo `CSV` e realizar download.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/table.to.csv.download.js)
 
 ### [Trabalhando com Arrays](https://github.com/JoseMateusCamargo/javascript/tree/master/arrays-manipulating#readme)
 

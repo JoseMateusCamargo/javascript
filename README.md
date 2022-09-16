@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/M6nBBb0/mascote.png" align="right" width="150">
+<img src="https://i.ibb.co/M6nBBb0/mascote.png" align="right" width="130">
 
 # JavaScript e JQuery
 
@@ -19,7 +19,7 @@
 
 ### [Dicas e Truques](https://github.com/JoseMateusCamargo/javascript/blob/main/javascript-tip/README.md)
 
-- Formatando datas.
+- **Formatando datas**.
 - Como detectar URL in texto e retornar como `Link`.
 - Capitalizar `toUpperCase` primeira letra.
 - Reverter string.
@@ -41,19 +41,19 @@
     - Adicionando objeto em Query String método 1.
     - Convertendo objeto em Query String método 2.
 - Get `Query Parameters` de uma URL.
+- Usando a função `Reviver` em `JSON.parse`.-
 
 ### [Some interview questions.](https://github.com/JoseMateusCamargo/javascript/blob/master/interview-question/README.md)
 
 - Amazon Interview Question.
 - Contador de ocorrencia.
 
-### [Entendo 'Object']()
+### [Entendo 'Object'.]()
 
----
-
-* [Using the Reviver Function in JSON.parse](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/json.parse_reviver.js)
-* [Formatando datas `(... 30/06/2022)`](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/formatando.datas.js)
-* [Como usar o operador Spread `(…)`.](https://github.com/JoseMateusCamargo/javascript/blob/main/tips-and-tricks/spread.operator.js)
+- Método `Object.values()`.
+- Método `Object.seal()`.
+- Método `Object.freeze()`.
+- [Dominando `Object literal`.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/obj.literal.js)
 
 ### Text Preprocessing
 
@@ -66,14 +66,6 @@
 * [Send the authorization header using <b>Axios</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/send.header.using.axios.js)
 * [XMLHttp Request - pure Javascript.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/XMLHttp.request.js)
 * [Send a token (headers) using <b>AJAX</b>.](https://github.com/JoseMateusCamargo/javascript/blob/main/request-method/send.token.using.ajax.js)
-
----
-
-#### Entendo 'Object'
-
-> Um objeto é uma coleção de propriedades, e uma propriedade é uma associação entre um nome (ou chave) e um valor.
-
-* [Using <b>Object literal</b> like a boss.](https://github.com/JoseMateusCamargo/javascript/blob/master/object/obj.literal.js)
 
 ### Snippets
 
@@ -89,7 +81,6 @@
 
 ### [Trabalhando com Arrays](https://github.com/JoseMateusCamargo/javascript/tree/master/arrays-manipulating#readme)
 
-- _Check_ se um array está vazio.
 - _Check_ se um array está vazio.
 - Remover valores duplicados em um array.
 - Encontrando item com função `array.find`.

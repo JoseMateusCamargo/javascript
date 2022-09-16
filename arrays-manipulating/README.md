@@ -20,6 +20,7 @@
   `array.forEach`, `map`, `reduce` e `Math.max`.
 - [Usando outros metodos de loop](https://github.com/JoseMateusCamargo/javascript/blob/master/arrays-manipulating/replacing.traditional.loops.js) :
   `map`, `filter`, `find`, `findIndex`, `reduce`, `every`, `some`, `sort` ...
+- [Trabalhando com _spread operator_ `(…)`.]()
 
 ---
 

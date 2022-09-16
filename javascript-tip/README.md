@@ -331,3 +331,27 @@ data_string.toString() // Thu Oct 08 2015 00:00:00 GMT-0300 (Horário Padrão de
 data_string.toUTCString() // Thu, 08 Oct 2015 03:00:00 GMT
 console.log(data_string.toLocaleString() + '\n' + data_string.toString() + '\n' + data_string.toUTCString())
 ```
+
+**Usando a função `Reviver` em `JSON.parse`**
+
+```Javascript
+let reviver = JSON.parse(`{  "abc": 123,  "def": 456,  "ghi": 0}`, (key, value) => {
+    if (key.startsWith('ab')) {
+        return undefined
+    }
+    return value
+})
+console.log(reviver)
+
+// Using Callback
+let reviver_callback = (key, value) => {
+    if (key.endsWith('hi')) {
+        return undefined
+    }
+    return value
+}
+
+const json = `{ "abc": 123,  "def": 456,  "ghi": 0}`
+const objectRevived = JSON.parse(json, reviver_callback)
+console.log(objectRevived)
+```

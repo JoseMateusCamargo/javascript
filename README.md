@@ -48,13 +48,13 @@
 - Amazon Interview Question.
 - Contador de ocorrencia.
 
-### [Trabalhando com DataTables]()
+### [Trabalhando com DataTables](https://github.com/JoseMateusCamargo/javascript/tree/main/dataTable#readme)
 
 - Botão exportar.
 - `columns.render` Exibir imagem em uma das colunas.
 - Personalização da janela de visualização de impressão.
 
-### [Entendo 'Object'.]()
+### [Entendo 'Object'.](https://github.com/JoseMateusCamargo/javascript/tree/main/object#readme)
 
 - Método `Object.values()`.
 - Método `Object.seal()`.

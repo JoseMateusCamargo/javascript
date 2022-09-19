@@ -48,6 +48,12 @@
 - Amazon Interview Question.
 - Contador de ocorrencia.
 
+### [Trabalhando com DataTables]()
+
+- Botão exportar.
+- `columns.render` Exibir imagem em uma das colunas.
+- Personalização da janela de visualização de impressão.
+
 ### [Entendo 'Object'.]()
 
 - Método `Object.values()`.

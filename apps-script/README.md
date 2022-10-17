@@ -5,8 +5,7 @@
 ## Trabalhando com apps Sheet
 
 - [Convertendo texto em image base64.](https://github.com/JoseMateusCamargo/javascript/blob/main/apps-script/base64toBlob.js)
-- [Métodos para envio _
-  automatico_ de e-mail.](https://github.com/JoseMateusCamargo/javascript/blob/main/apps-script/sendEmail.js)
+- [Métodos para envio automatico de e-mail.](https://github.com/JoseMateusCamargo/javascript/blob/main/apps-script/sendEmail.js)
 - [Adicionando menu personalizado](https://github.com/JoseMateusCamargo/javascript/blob/main/apps-script/addMenu.js)
     - Remover linhas duplicadas no aba corrente.
     - Filtro por cor.

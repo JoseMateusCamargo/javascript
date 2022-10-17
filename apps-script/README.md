@@ -4,15 +4,16 @@
 
 ## Trabalhando com apps Sheet
 
-- Convertendo texto em image base64.
-- Métodos para envio _automatico_ de e-mail.
-- Adicionando menu personalizado
+- [Convertendo texto em image base64.](https://github.com/JoseMateusCamargo/javascript/blob/main/apps-script/base64toBlob.js)
+- [Métodos para envio _
+  automatico_ de e-mail.](https://github.com/JoseMateusCamargo/javascript/blob/main/apps-script/sendEmail.js)
+- [Adicionando menu personalizado](https://github.com/JoseMateusCamargo/javascript/blob/main/apps-script/addMenu.js)
     - Remover linhas duplicadas no aba corrente.
     - Filtro por cor.
     - Deletando linha.
     - Encontrado valores duplicados.
-- Encontrando e adicionando um valor.
-- Adicionando nova linha na google sheet.
+- [Encontrando e adicionando um valor.](https://github.com/JoseMateusCamargo/javascript/blob/main/apps-script/findValue.js)
+- [Adicionando nova linha na google sheet.](https://github.com/JoseMateusCamargo/javascript/blob/main/apps-script/addNewRow.js)
 - Como inserir **hyperlink** para navegação.
 - Como utilizar **QUERY**.
 - REGEX para o CNPJ.

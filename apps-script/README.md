@@ -4,6 +4,11 @@
 
 ## Trabalhando com apps Sheet
 
+Extra: Saiba como usar o [Supermetrics](https://support.supermetrics.com/support/solutions/19000100275) com o Data
+Studio.
+
+#### _Let's Code!_
+
 - [Convertendo texto em image base64.](https://github.com/JoseMateusCamargo/javascript/blob/main/apps-script/base64toBlob.js)
 - [Métodos para envio automatico de e-mail.](https://github.com/JoseMateusCamargo/javascript/blob/main/apps-script/sendEmail.js)
 - [Adicionando menu personalizado](https://github.com/JoseMateusCamargo/javascript/blob/main/apps-script/addMenu.js)

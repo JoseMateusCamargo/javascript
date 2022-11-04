@@ -4,8 +4,11 @@
 
 ## Trabalhando com apps Sheet
 
-Extra: Saiba como usar o [Supermetrics](https://support.supermetrics.com/support/solutions/19000100275) com o Data
+_Extra_: Saiba como usar o [Supermetrics](https://support.supermetrics.com/support/solutions/19000100275) com o Data
 Studio.
+
+_Extra II_: Pesquise Google Spreadsheet como uma Database
+como [Google Visualization API Query Language.](https://acrl.ala.org/techconnect/post/query-a-google-spreadsheet-like-a-database-with-google-visualization-api-query-language/)
 
 #### _Let's Code!_
 

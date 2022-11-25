@@ -1,8 +1,10 @@
-<img src="https://i.ibb.co/M6nBBb0/mascote.png" align="right" width="150">
+<img src="https://i.ibb.co/M6nBBb0/mascote.png" align="right" width="130">
 
-# JavaScript
+# JavaScript e JQuery
 
-## How to Use (manual)
+## Manual (How to use)
+
+#### _Let's Code!_
 
 - **Generator**.
 - Como usar `JSON.stringify()`.
@@ -58,8 +60,8 @@ data.forEach(item => console.log(item))
 
 **Trabalhando com Clausures**
 
-Uma `closure` (fechamento) é uma função que se "lembra" do ambiente — ou escopo léxico — em que ela foi criada.
-[Documentação.](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Closures)
+Uma [closure](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Closures) (fechamento) é uma função que se "
+lembra" do ambiente — ou escopo léxico — em que ela foi criada.
 
 ````Javascript
 const outer = () => {
@@ -78,9 +80,10 @@ inner()
 
 **Como usar `JSON.stringify()`**
 
-O método `JSON.stringify()` converte valores em javascript para uma String JSON. Esses valores podem ser substituidos
+Método [JSON.stringify()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
+converte valores em javascript para uma String JSON. Esses valores podem ser substituidos
 especificando a função replacer, ou incluindo somente as propriedades específicas, quando o array do replacer for
-especificado. [Documentação.](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
+especificado.
 
 ````Javascript
 const some_obj = {name: 'one', age: 33, online: true}
@@ -98,8 +101,8 @@ JSON.stringify(some_obj) // {"name": "one",    "age": 33,    "online": true }
 
 **Criando uma _Syntax Highlighter_**
 
-O método estático `String.raw()` é uma função tag de modelos literais.
-[Documentação.](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/raw)
+Método [String.raw()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/raw) é
+uma função tag de modelos literais.
 
 ````Javascript
 const markup = `
@@ -127,7 +130,7 @@ const markup_highlight = String.raw`
 
 **`padStart()` como preenche a string original com um determinado caractere**.
 
-O método `padStart()` preenche a string original com um determinado caractere, ou conjunto de caracteres,
+Método `padStart()` preenche a string original com um determinado caractere, ou conjunto de caracteres,
 (várias vezes, se necessário) até que a string resultante atinja o comprimento fornecido. O preenchimento
 é aplicado antes do primeiro caractere da string original. A string original não é modificada.
 

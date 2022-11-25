@@ -2,7 +2,9 @@
 
 # JavaScript e JQuery
 
-## Trabalhando com Arrays in JavaScript
+## Trabalhando com Arrays
+
+#### _Let's Code!_
 
 - _Check_ se um array está vazio.
 - Remover valores duplicados em um array.

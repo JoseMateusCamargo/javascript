@@ -2,9 +2,11 @@
 
 # JavaScript e JQuery
 
-## Entendo 'Object'
+## Entendo Object.()
 
 Um objeto é uma coleção de propriedades, e uma propriedade é uma associação entre um nome (ou chave) e um valor.
+
+#### _Let's Code!_
 
 - Método `Object.values()`.
 - Método `Object.seal()`.

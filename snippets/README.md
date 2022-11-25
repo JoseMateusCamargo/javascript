@@ -4,15 +4,17 @@
 
 ## Snippets
 
-- [Capturar eventos do leitor de código de barras-Qrcode](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/capture.barcode.reader.keyborad.wedge.js)
-- `onKeyPressed` Executa um JavaScript quando um usuário pressiona uma tecla.
-- Contador de ocorrencias em uma `string`.
-- Métodos simples para converter a tabela para `JSON`.
-- Criando um relógio simples.
-- Criando carrosel.
-- Altere o _CSS_ da classe usando _JQuery_
-- [Função recursiva em exemplo de máquina ATM.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/recursive_ATM_machine.j)
-- [Como converter tabela em arquivo `CSV` e realizar download.](https://github.com/JoseMateusCamargo/javascript/blob/main/snippets/table.to.csv.download.js)
+#### _Let's Code!_
+
+- **onKeyPressed** Executa um JavaScript quando um usuário pressiona uma tecla
+- Contador de ocorrencias em uma **string**
+- Métodos simples para converter a tabela para **JSON**
+- Criando um relógio simples
+- Criando carrosel
+- Altere o **CSS** da classe usando **JQuery**
+- [Capturar eventos do leitor de código de barras-Qrcode](./capture.barcode.reader.keyborad.wedge.js)
+- [Função **recursiva** em exemplo de máquina ATM](./recursive_ATM_machine.js)
+- [Como converter tabela em arquivo **.csv** e realizar download.](./table.to.csv.download.js)
 
 ---
 

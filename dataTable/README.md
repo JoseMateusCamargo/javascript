@@ -1,10 +1,12 @@
 <img src="https://i.ibb.co/M6nBBb0/mascote.png" align="right" width="130">
 
-# JavaScript
+# JavaScript e JQuery
 
 ## Trabalhando com [DataTables](https://datatables.net/)
 
 Adicione controles de interação avançados às suas tabelas HTML de forma fácil e gratuita.
+
+#### _Let's Code!_
 
 - Botão exportar
     - Exportando com conjunto de caracteres UTF8.

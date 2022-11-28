@@ -7,25 +7,23 @@
 #### _Let's Code!_
 
 - **Generator**.
+- **Clausures**.
 - Como usar `JSON.stringify()`.
-- Trabalhando com **Clausures**.
-- Usando o operador nullish coalescing `??` em validação de variáveis.
-- `padStart()` como preenche a string original com um determinado caractere.
-- Criando uma _Syntax Highlighter_.
+- Usando o operador **nullish coalescing** `??` em validação de variáveis.
+- `padStart()`, como preenche a string original com um determinado caractere.
+- Criando uma **Syntax Highlighter**.
 - Metodos de uso de `console.log`.
-    - console.info.
-    - console.error.
-    - console.warn.
-    - console.assert() _Assertividade que leva dois parâmetros_.
-    - console.counter().
-    - console.group().
-    - console.time() _Iniciando um cronometro_.
-    - console.table()
-        - Exemplo de um array de arrays.
-        - Exemplo de array de strings.
-    - console.trace() _Informe o rastro deixado pelas funções_.
-    - console.clear().
-    - Aplique CSS à sainda do console usando a diretiva "%c.
+    - console.info
+    - console.error
+    - console.warn
+    - console.assert() - _Assertividade que leva dois parâmetros_.
+    - console.counter()
+    - console.group()
+    - console.time() - _Iniciando um cronometro_.
+    - console.table() - _Exemplos com array_.
+    - console.trace() - _Informe o rastro deixado pelas funções_.
+    - console.clear()
+    - Aplique **CSS** à sainda do console usando a diretiva "%c.
 
 ---
 
@@ -58,7 +56,7 @@ data.forEach(item => console.log(item))
 // Credits: Erick Wendel
 ```
 
-**Trabalhando com Clausures**
+**Clausures**
 
 Uma [closure](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Closures) (fechamento) é uma função que se "
 lembra" do ambiente — ou escopo léxico — em que ela foi criada.

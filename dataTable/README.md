@@ -8,14 +8,13 @@ Adicione controles de interação avançados às suas tabelas HTML de forma fác
 
 #### _Let's Code!_
 
-- Botão exportar
-    - Exportando com conjunto de caracteres UTF8.
-- `columns.render` Exibir imagem em uma das colunas.
-- Personalização da janela de visualização de impressão.
+- Adcionando botão para exportação.
+- `columns.render`, exibir imagem em uma das colunas.
+- Pernalizando janela de visualização de impressão.
 
 ---
 
-**Botão exportar**
+**Adcionando botão para exportação**
 
 ```Javascript
 $(document).ready(function () {
@@ -36,7 +35,8 @@ buttons: [
 ]
 ```
 
-> https://code.jquery.com/jquery-3.5.1.js
+> Javascript  
+https://code.jquery.com/jquery-3.5.1.js
 https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js
 https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js
 https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js
@@ -45,10 +45,11 @@ https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js
 https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js
 https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js
 
-> https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css
+> CSS  
+https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css
 https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css
 
-**`columns.render` Exibir imagem em uma das colunas**
+**`columns.render`, exibir imagem em uma das colunas**
 
 ```Javascript
 $('#matchOrderedTable').dataTable({
@@ -71,7 +72,7 @@ function getImg(data, type, full, meta) {
 }
 ```
 
-**Personalização da janela de visualização de impressão**
+**Pernalizando janela de visualização de impressão**
 
 ```Javascript
 $(document).ready(function () {
@@ -95,10 +96,12 @@ $(document).ready(function () {
 });
 ```
 
-> https://code.jquery.com/jquery-3.5.1.js
+> Javascript  
+https://code.jquery.com/jquery-3.5.1.js
 https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js
 https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js
 https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js
 
-> https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css
+> CSS  
+https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css
 https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css

@@ -27,13 +27,13 @@ _Extra_: material sobre [**Apps Script**](./apps-script/README.md)
 - Pré-processamento de texto (**Text Preprocessing**)
     - [Substituir/ remover caracteres especiais com <b>normalize</b> e <b>replace</b>](./text-preprocessing/removendo.caracteres.especiais.js)
     - [**Expressões Regulares**, selecionar combinações de caracteres em uma string](./text-preprocessing/regex.js)
-    - [**Stop word**, pequena função/ grande trabalho](./text-preprocessing/stopword.js) 🎖️
+    - [**Stop word**, pequena função - grande trabalho](./text-preprocessing/stopword.js) 🎖️
 - [Dicas e truques](./tips-and-tricks/README.md)
     - Formatando datas, cookies, localStorage, query string, URLSearchParams...
 
 ---
 
-### Array Cheatsheet 🚀
+### Array Cheatsheet
 
 ![alt text](assets/img/array_cheatsheet.png)
 
